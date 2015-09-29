@@ -1,0 +1,4 @@
+2012-12-20 10:56:22,751 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PB.MmoServer; AppPath=C:\Server\Photon3\deploy\PB.MmoServer, Type=PB.MmoServer.PhotonApplication 
+2012-12-20 10:56:22,798 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started on: 255.255.255.255:40001
+2012-12-20 15:03:54,716 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PB.MmoServer; AppPath=C:\Server\Photon3\deploy\PB.MmoServer, Type=PB.MmoServer.PhotonApplication 
+2012-12-20 15:03:54,763 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started on: 255.255.255.255:40001

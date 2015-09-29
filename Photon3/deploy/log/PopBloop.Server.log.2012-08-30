@@ -1,0 +1,2 @@
+2012-08-30 16:28:10,567 [20] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=PB.MmoServer
+2012-08-30 16:28:10,575 [20] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=PB.MmoServer

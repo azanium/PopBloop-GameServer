@@ -1,0 +1,8 @@
+4336: 13:09:30.682 - Restarting application: "PB.MmoServer" due to file changes
+4336: 13:09:30.719 - Application: "PB.MmoServer" restart request
+4336: 13:09:32.283 - Application: "PB.MmoServer" started in app domain: 14
+4336: 13:09:35.025 - Application: "PB.MmoServer" stopped in app domain: 13
+4336: 13:09:35.025 - Application: "PB.MmoServer" restart complete.
+6212: 13:09:35.045 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+5792: 13:09:35.103 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='13'
+6212: 13:09:35.118 - CManagedHost::OnDomainUnload() - 13

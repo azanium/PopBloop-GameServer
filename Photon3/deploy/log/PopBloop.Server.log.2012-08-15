@@ -1,0 +1,16 @@
+2012-08-15 11:06:04,096 [17] ERROR ExitGames.Diagnostics.Monitoring.CounterSamplePublisher - Error during update.
+System.UnauthorizedAccessException: Access to the registry key '230' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.InternalGetValue(String name, Object defaultValue, Boolean doNotExpand, Boolean checkSecurity)
+   at Microsoft.Win32.RegistryKey.GetValue(String name)
+   at System.Diagnostics.PerformanceMonitor.GetData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetPerformanceData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at Photon.SocketServer.Diagnostics.CpuUsageCounterReader.GetNextValue()
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#e.#x.#yb(DateTime currentTimeStamp, CounterSample& counterSample)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.Update()
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#tb(Object )
+2012-08-15 11:10:11,921 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PB.MmoServer; AppPath=C:\Server\Photon3\deploy\PB.MmoServer, Type=PB.MmoServer.PhotonApplication 
+2012-08-15 11:10:11,981 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started on: 255.255.255.255:40001

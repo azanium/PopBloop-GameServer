@@ -1,0 +1,160 @@
+4260: 00:34:24.661 - Connect to Photon License Server failed. Trying again later. Allowed days without contact: 2
+2136: 09:37:33.956 - Service is stopped...
+2136: 09:37:33.956 - Server shutting down...
+2136: 09:37:33.956 - Notifying CLR applications of shutdown...
+2136: 09:37:34.394 - Shutting down TCP Outbound Connection Manager...
+2136: 09:37:34.394 - Shutting down ENet Outbound Connection Manager...
+2136: 09:37:34.394 - Disconnecting all outbound peers...
+2136: 09:37:34.394 - Shutting down ENet host...
+2136: 09:37:34.394 - Disconnecting all peers...
+2136: 09:37:34.394 - Shutting down socket servers...
+2136: 09:37:34.394 - Shutting down ENet thread pool...
+2136: 09:37:34.394 - Shutting down TCP inactivity timers...
+2136: 09:37:34.394 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+2136: 09:37:34.394 - OnShutdownCompleted: TCP:0.0.0.0:4530
+2136: 09:37:34.394 - WaitingForShutdownToComplete: TCPPolicy:0.0.0.0:843
+2136: 09:37:34.394 - OnShutdownCompleted: TCPPolicy:0.0.0.0:843
+2136: 09:37:34.394 - WaitingForShutdownToComplete: TCPPolicy:0.0.0.0:943
+2136: 09:37:34.394 - OnShutdownCompleted: TCPPolicy:0.0.0.0:943
+2136: 09:37:34.394 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+2136: 09:37:34.394 - OnShutdownCompleted: UDP:127.0.0.1:5055
+2136: 09:37:34.394 - WaitingForShutdownToComplete: UDP:192.168.1.2:5055
+2136: 09:37:34.394 - OnShutdownCompleted: UDP:192.168.1.2:5055
+2136: 09:37:34.394 - WaitingForShutdownToComplete: UDP:192.168.223.1:5055
+2136: 09:37:34.394 - OnShutdownCompleted: UDP:192.168.223.1:5055
+2136: 09:37:34.394 - WaitingForShutdownToComplete: UDP:192.168.32.1:5055
+2136: 09:37:34.394 - OnShutdownCompleted: UDP:192.168.32.1:5055
+2136: 09:37:34.394 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+2136: 09:37:34.394 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+2136: 09:37:34.394 - Shutting down CLR applications...
+2596: 09:37:34.394 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+2136: 09:37:34.409 - Shutting down business logic thread pool...
+2136: 09:37:34.409 - Shutting down I/O thread pool...
+2136: 09:37:34.409 - Flushing ENET buffer allocator...
+2136: 09:37:34.409 - Flushing TCP buffer allocator...
+2136: 09:37:34.409 - Flushing TCP buffer handle allocator...
+2136: 09:37:34.409 - Flushing stream socket allocator...
+2136: 09:37:34.409 - Flushing inbound datagram socket allocator...
+2136: 09:37:34.409 - Flushing outbound datagram socket allocator...
+2136: 09:37:34.409 - Destroying ENet thread pool
+2136: 09:37:34.409 - Destroying Business logic thread pool
+2136: 09:37:34.409 - Destroying servers
+2136: 09:37:34.409 - Destroying TCP Outbound Connection Manager
+2136: 09:37:34.409 - Destroying resolver
+2136: 09:37:34.409 - Destroying TCP Proxy Connection Manager
+2136: 09:37:34.409 - Destroying TCP inactivity timer
+2136: 09:37:34.409 - Destroying ENet host
+2136: 09:37:34.409 - Destroying ENet host
+2136: 09:37:34.409 - Destroying CLR dispatcher
+2136: 09:37:34.409 - Destroying CLR applications
+2588: 09:37:34.409 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='5'
+2136: 09:37:34.503 - Destroying I/O thread pool
+2136: 09:37:34.503 - Destroying ENet buffer allocator
+2136: 09:37:34.503 - Destroying TCP buffer allocator
+2136: 09:37:34.503 - Destroying TCP socket allocator
+2136: 09:37:34.503 - Destroying ENet inbound socket allocator
+2136: 09:37:34.503 - Destroying ENet outbound socket allocator
+2136: 09:37:34.503 - Destroying performance counters
+2136: 09:37:34.503 - Shutdown complete...
+2056: 09:37:34.503 - Service shutting down
+2056: 09:37:34.503 - Service shut down complete
+2112: 09:38:39.243 - ---
+2112: 09:38:39.258 - Service: "Photon Socket Server" starting
+2112: 09:38:39.258 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+2112: 09:38:39.368 - Will produce at most: 10 crash dumps
+2112: 09:38:39.368 - Action:service
+2192: 09:38:39.383 - Server Starting...
+2192: 09:38:39.399 -    Tick count: 32015 (wraps in: 49.7099 days)
+2192: 09:38:39.399 - Tick count 64: 32031
+2192: 09:38:39.399 - Photon Version: 3.0.27.1684
+2192: 09:38:39.399 - PID: 2108
+2192: 09:38:39.446 - Current directory is: C:\Windows\system32
+2192: 09:38:39.446 - Changing current directory to: C:\Server\Photon3\deploy\bin_Win64
+2192: 09:38:39.446 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+2192: 09:38:39.555 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+2192: 09:38:39.602 - Max message size: 512000
+2192: 09:38:39.633 - S2S: MaxInboundMessageSize: 512000
+2192: 09:38:39.633 - S2S: MaxOutboundMessageSize: 512000
+2192: 09:38:39.633 - S2S: No inactivity timeout
+2192: 09:38:39.665 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+2192: 09:38:39.665 - Per peer bandwidth limit
+2192: 09:38:39.665 - Transmit Rate Limit: 256 KB/Sec
+2192: 09:38:39.665 - Limit period: 200ms
+2192: 09:38:39.665 - Limit per period: 52428 bytes
+2192: 09:38:39.665 - Max queued data for transmission per peer: 512000 bytes
+2192: 09:38:39.665 - Minimum retransmit timeout: 200
+2192: 09:38:39.665 - Minimum ENet timeout: 5000ms
+2192: 09:38:39.665 - Maximum ENet timeout: 30000ms
+2192: 09:38:39.665 - Outbound ENet: MaxInboundMessageSize: 512000
+2192: 09:38:39.665 - Outbound ENet: MaxOutboundMessageSize: 512000
+2192: 09:38:40.477 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+2192: 09:38:40.477 - CLRBaseDirectory set to "C:\Server\Photon3\deploy"
+2192: 09:38:40.477 - Optimising event broadcast for 20 or more peers
+2192: 09:38:40.696 - About to load CLR - versions available:
+2192: 09:38:40.696 - v2.0.50727
+2192: 09:38:40.696 - v4.0.30319
+2192: 09:38:40.696 - No preference in configuration file, will load latest.
+2192: 09:38:40.696 - About to load version: "v4.0.30319"
+2192: 09:38:40.743 - Loaded version: "v4.0.30319"
+2192: 09:38:47.307 - Photon host runtime loaded
+2192: 09:38:54.080 - License is valid.
+2192: 09:38:54.080 - Licensed for 100 concurrent connections.
+2192: 09:38:54.080 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+2192: 09:38:54.080 - Per peer bandwidth limit
+2192: 09:38:54.080 - Transmit Rate Limit: 256 KB/Sec
+2192: 09:38:54.080 - Limit period: 200ms
+2192: 09:38:54.080 - Limit per period: 52428 bytes
+2192: 09:38:54.080 - Max queued data for transmission per peer: 512000 bytes
+2192: 09:38:54.080 - Minimum retransmit timeout: 200
+2192: 09:38:54.080 - Minimum ENet timeout: 5000ms
+2192: 09:38:54.080 - Maximum ENet timeout: 30000ms
+2192: 09:38:54.080 - CENetHost: Using Timer Wheel
+2192: 09:38:54.080 - About to load application: PB.MmoServer from PB.MmoServer
+2192: 09:38:54.080 - Auto restart is enabled for application
+2192: 09:38:54.080 - Application will restart 1000ms after the last change detected
+2192: 09:38:54.080 - Application will restart if files matching the following are changed: "dll;config"
+2192: 09:38:54.080 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2192: 09:38:54.626 - Application: "PB.MmoServer" started in app domain: 2
+2192: 09:38:54.626 - About to load application: Lite from Lite
+2192: 09:38:54.626 - Auto restart is enabled for application, existing connections will be terminated during restart
+2192: 09:38:54.626 - Application will restart 1000ms after the last change detected
+2192: 09:38:54.626 - Application will restart if files matching the following are changed: "dll;config"
+2192: 09:38:54.626 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2192: 09:38:54.845 - Application: "Lite" started in app domain: 3
+2192: 09:38:54.845 - About to load application: LiteLobby from LiteLobby
+2192: 09:38:54.845 - Auto restart is enabled for application, existing connections will be terminated during restart
+2192: 09:38:54.845 - Application will restart 1000ms after the last change detected
+2192: 09:38:54.845 - Application will restart if files matching the following are changed: "dll;config"
+2192: 09:38:54.845 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2192: 09:38:55.002 - Application: "LiteLobby" started in app domain: 4
+2192: 09:38:55.002 - About to load application: CounterPublisher from CounterPublisher
+2192: 09:38:55.002 - Auto restart is enabled for application, existing connections will be terminated during restart
+2192: 09:38:55.002 - Application will restart 1000ms after the last change detected
+2192: 09:38:55.002 - Application will restart if files matching the following are changed: "dll;config"
+2192: 09:38:55.002 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2192: 09:38:55.236 - Application: "CounterPublisher" started in app domain: 5
+2192: 09:38:55.236 - About to load application: Policy from Policy.Application
+2192: 09:38:55.314 - Application: "Policy" started in app domain: 6
+2192: 09:38:55.330 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+2192: 09:38:55.330 - TCP inactivity timeout: 5000ms
+2192: 09:38:55.330 - MaxInboundMessageSize: 512000
+2192: 09:38:55.330 - MaxOutboundMessageSize: 512000
+2192: 09:38:55.330 - Routing policy file requests to: "Policy"
+2192: 09:38:55.330 - MaxInboundMessageSize: 512000
+2192: 09:38:55.330 - MaxOutboundMessageSize: 512000
+2192: 09:38:55.330 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+2192: 09:38:55.330 - Adding UDP listener on :192.168.32.1: 5055 with a listen backlog of: 500
+2192: 09:38:55.330 - Adding UDP listener on :192.168.223.1: 5055 with a listen backlog of: 500
+2192: 09:38:55.330 - Adding UDP listener on :192.168.1.2: 5055 with a listen backlog of: 500
+2192: 09:38:55.330 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+2192: 09:38:55.330 - Adding TCP Policy listener on :0.0.0.0: 843 with a listen backlog of: 150 and routing to application: "Policy"
+2192: 09:38:55.330 - TCP inactivity timeout: 1000ms
+2192: 09:38:55.330 - Adding TCP Policy listener on :0.0.0.0: 943 with a listen backlog of: 150 and routing to application: "Policy"
+2192: 09:38:55.330 - TCP inactivity timeout: 1000ms
+2192: 09:38:55.330 - Adding WebSocket TCP listener on :0.0.0.0: 9090 with a listen backlog of: 150
+2192: 09:38:55.330 - Nagle disabled
+2192: 09:38:55.330 - TCP inactivity timeout: 10000ms
+2192: 09:38:55.330 - MaxInboundMessageSize: 512000
+2192: 09:38:55.330 - MaxOutboundMessageSize: 512000
+2192: 09:38:55.330 - Forcing all applications ids to: "Lite"
+2192: 09:38:55.361 - Service is running...

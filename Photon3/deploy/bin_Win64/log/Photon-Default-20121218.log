@@ -1,0 +1,100 @@
+2308: 17:03:19.054 - ---
+2308: 17:03:19.070 - Service: "Photon Socket Server" starting
+2308: 17:03:19.070 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+2308: 17:03:19.132 - Will produce at most: 10 crash dumps
+2308: 17:03:19.132 - Action:service
+2340: 17:03:19.132 - Server Starting...
+2340: 17:03:19.132 -    Tick count: 36765 (wraps in: 49.7098 days)
+2340: 17:03:19.132 - Tick count 64: 36765
+2340: 17:03:19.132 - Photon Version: 3.0.27.1684
+2340: 17:03:19.132 - PID: 2304
+2340: 17:03:19.132 - Current directory is: C:\Windows\system32
+2340: 17:03:19.132 - Changing current directory to: C:\Server\Photon3\deploy\bin_Win64
+2340: 17:03:19.132 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+2340: 17:03:19.289 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+2340: 17:03:19.304 - Max message size: 512000
+2340: 17:03:19.336 - S2S: MaxInboundMessageSize: 512000
+2340: 17:03:19.336 - S2S: MaxOutboundMessageSize: 512000
+2340: 17:03:19.336 - S2S: No inactivity timeout
+2340: 17:03:19.398 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+2340: 17:03:19.398 - Per peer bandwidth limit
+2340: 17:03:19.398 - Transmit Rate Limit: 256 KB/Sec
+2340: 17:03:19.398 - Limit period: 200ms
+2340: 17:03:19.398 - Limit per period: 52428 bytes
+2340: 17:03:19.398 - Max queued data for transmission per peer: 512000 bytes
+2340: 17:03:19.398 - Minimum retransmit timeout: 200
+2340: 17:03:19.398 - Minimum ENet timeout: 5000ms
+2340: 17:03:19.398 - Maximum ENet timeout: 30000ms
+2340: 17:03:19.398 - Outbound ENet: MaxInboundMessageSize: 512000
+2340: 17:03:19.398 - Outbound ENet: MaxOutboundMessageSize: 512000
+2340: 17:03:20.476 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+2340: 17:03:20.476 - CLRBaseDirectory set to "C:\Server\Photon3\deploy"
+2340: 17:03:20.476 - Optimising event broadcast for 20 or more peers
+2340: 17:03:20.570 - About to load CLR - versions available:
+2340: 17:03:20.570 - v2.0.50727
+2340: 17:03:20.570 - v4.0.30319
+2340: 17:03:20.570 - No preference in configuration file, will load latest.
+2340: 17:03:20.570 - About to load version: "v4.0.30319"
+2340: 17:03:20.929 - Loaded version: "v4.0.30319"
+2340: 17:03:29.696 - Photon host runtime loaded
+2340: 17:03:41.135 - License is valid.
+2340: 17:03:41.135 - Licensed for 100 concurrent connections.
+2340: 17:03:41.135 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+2340: 17:03:41.135 - Per peer bandwidth limit
+2340: 17:03:41.135 - Transmit Rate Limit: 256 KB/Sec
+2340: 17:03:41.135 - Limit period: 200ms
+2340: 17:03:41.135 - Limit per period: 52428 bytes
+2340: 17:03:41.135 - Max queued data for transmission per peer: 512000 bytes
+2340: 17:03:41.135 - Minimum retransmit timeout: 200
+2340: 17:03:41.135 - Minimum ENet timeout: 5000ms
+2340: 17:03:41.135 - Maximum ENet timeout: 30000ms
+2340: 17:03:41.135 - CENetHost: Using Timer Wheel
+2340: 17:03:41.135 - About to load application: PB.MmoServer from PB.MmoServer
+2340: 17:03:41.135 - Auto restart is enabled for application
+2340: 17:03:41.135 - Application will restart 1000ms after the last change detected
+2340: 17:03:41.135 - Application will restart if files matching the following are changed: "dll;config"
+2340: 17:03:41.135 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2340: 17:03:42.182 - Application: "PB.MmoServer" started in app domain: 2
+2340: 17:03:42.182 - About to load application: Lite from Lite
+2340: 17:03:42.182 - Auto restart is enabled for application, existing connections will be terminated during restart
+2340: 17:03:42.182 - Application will restart 1000ms after the last change detected
+2340: 17:03:42.182 - Application will restart if files matching the following are changed: "dll;config"
+2340: 17:03:42.182 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2340: 17:03:42.729 - Application: "Lite" started in app domain: 3
+2340: 17:03:42.729 - About to load application: LiteLobby from LiteLobby
+2340: 17:03:42.729 - Auto restart is enabled for application, existing connections will be terminated during restart
+2340: 17:03:42.729 - Application will restart 1000ms after the last change detected
+2340: 17:03:42.729 - Application will restart if files matching the following are changed: "dll;config"
+2340: 17:03:42.729 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2340: 17:03:43.338 - Application: "LiteLobby" started in app domain: 4
+2340: 17:03:43.338 - About to load application: CounterPublisher from CounterPublisher
+2340: 17:03:43.338 - Auto restart is enabled for application, existing connections will be terminated during restart
+2340: 17:03:43.338 - Application will restart 1000ms after the last change detected
+2340: 17:03:43.338 - Application will restart if files matching the following are changed: "dll;config"
+2340: 17:03:43.338 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2340: 17:03:43.916 - Application: "CounterPublisher" started in app domain: 5
+2340: 17:03:43.916 - About to load application: Policy from Policy.Application
+2340: 17:03:44.182 - Application: "Policy" started in app domain: 6
+2340: 17:03:44.197 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+2340: 17:03:44.244 - TCP inactivity timeout: 5000ms
+2340: 17:03:44.244 - MaxInboundMessageSize: 512000
+2340: 17:03:44.244 - MaxOutboundMessageSize: 512000
+2340: 17:03:44.244 - Routing policy file requests to: "Policy"
+2340: 17:03:44.275 - MaxInboundMessageSize: 512000
+2340: 17:03:44.275 - MaxOutboundMessageSize: 512000
+2340: 17:03:44.275 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+2340: 17:03:44.275 - Adding UDP listener on :192.168.32.1: 5055 with a listen backlog of: 500
+2340: 17:03:44.275 - Adding UDP listener on :192.168.223.1: 5055 with a listen backlog of: 500
+2340: 17:03:44.275 - Adding UDP listener on :192.168.1.2: 5055 with a listen backlog of: 500
+2340: 17:03:44.275 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+2340: 17:03:44.275 - Adding TCP Policy listener on :0.0.0.0: 843 with a listen backlog of: 150 and routing to application: "Policy"
+2340: 17:03:44.275 - TCP inactivity timeout: 1000ms
+2340: 17:03:44.275 - Adding TCP Policy listener on :0.0.0.0: 943 with a listen backlog of: 150 and routing to application: "Policy"
+2340: 17:03:44.275 - TCP inactivity timeout: 1000ms
+2340: 17:03:44.275 - Adding WebSocket TCP listener on :0.0.0.0: 9090 with a listen backlog of: 150
+2340: 17:03:44.275 - Nagle disabled
+2340: 17:03:44.275 - TCP inactivity timeout: 10000ms
+2340: 17:03:44.275 - MaxInboundMessageSize: 512000
+2340: 17:03:44.275 - MaxOutboundMessageSize: 512000
+2340: 17:03:44.275 - Forcing all applications ids to: "Lite"
+2340: 17:03:44.307 - Service is running...

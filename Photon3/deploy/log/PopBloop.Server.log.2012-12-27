@@ -1,0 +1,4 @@
+2012-12-27 10:08:50,152 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=PB.MmoServer
+2012-12-27 10:08:50,621 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=PB.MmoServer
+2012-12-27 10:11:25,712 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PB.MmoServer; AppPath=C:\Server\Photon3\deploy\PB.MmoServer, Type=PB.MmoServer.PhotonApplication 
+2012-12-27 10:11:25,759 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started on: 255.255.255.255:40001

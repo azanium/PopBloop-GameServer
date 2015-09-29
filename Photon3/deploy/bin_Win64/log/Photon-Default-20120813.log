@@ -1,0 +1,263 @@
+8588: 11:37:49.550 - ---
+8588: 11:37:49.550 - Service: "Photon Socket Server" starting
+8588: 11:37:49.550 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+8588: 11:37:49.551 - Will produce at most: 10 crash dumps
+8588: 11:37:49.551 - Action:install
+8588: 11:37:49.591 - Service: "Photon Socket Server: Default" installed
+8588: 11:37:49.591 - Config File Path: "C:\Server\Photon3\deploy\bin_Win64"
+8588: 11:37:49.591 - Config File Name: ""
+8588: 11:37:52.278 - Service shutting down
+8588: 11:37:52.279 - Service shut down complete
+3664: 11:37:55.853 - ---
+3664: 11:37:55.853 - Service: "Photon Socket Server" starting
+3664: 11:37:55.853 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+3664: 11:37:55.854 - Will produce at most: 10 crash dumps
+3664: 11:37:55.854 - Action:service
+8188: 11:37:55.855 - Server Starting...
+8188: 11:37:55.855 -    Tick count: 2963597 (wraps in: 49.676 days)
+8188: 11:37:55.855 - Tick count 64: 2963597
+8188: 11:37:55.855 - Photon Version: 3.0.27.1684
+8188: 11:37:55.855 - PID: 8872
+8188: 11:37:55.855 - Current directory is: C:\Windows\system32
+8188: 11:37:55.855 - Changing current directory to: C:\Server\Photon3\deploy\bin_Win64
+8188: 11:37:55.856 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+8188: 11:37:55.865 - Not using performance counters. The installed counters do not match the counter dll
+8188: 11:37:55.865 - Run the service with /InstallCounters to reinstall the latest counters.
+8188: 11:37:55.866 - Max message size: 512000
+8188: 11:37:55.866 - S2S: MaxInboundMessageSize: 512000
+8188: 11:37:55.866 - S2S: MaxOutboundMessageSize: 512000
+8188: 11:37:55.866 - S2S: No inactivity timeout
+8188: 11:37:55.869 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+8188: 11:37:55.869 - Per peer bandwidth limit
+8188: 11:37:55.869 - Transmit Rate Limit: 256 KB/Sec
+8188: 11:37:55.869 - Limit period: 200ms
+8188: 11:37:55.869 - Limit per period: 52428 bytes
+8188: 11:37:55.869 - Max queued data for transmission per peer: 512000 bytes
+8188: 11:37:55.869 - Minimum retransmit timeout: 200
+8188: 11:37:55.869 - Minimum ENet timeout: 5000ms
+8188: 11:37:55.869 - Maximum ENet timeout: 30000ms
+8188: 11:37:55.869 - Outbound ENet: MaxInboundMessageSize: 512000
+8188: 11:37:55.869 - Outbound ENet: MaxOutboundMessageSize: 512000
+8188: 11:37:55.873 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+8188: 11:37:55.873 - CLRBaseDirectory set to "C:\Server\Photon3\deploy"
+8188: 11:37:55.873 - Optimising event broadcast for 20 or more peers
+8188: 11:37:55.875 - About to load CLR - versions available:
+8188: 11:37:55.875 - v2.0.50727
+8188: 11:37:55.875 - v4.0.30319
+8188: 11:37:55.875 - No preference in configuration file, will load latest.
+8188: 11:37:55.875 - About to load version: "v4.0.30319"
+8188: 11:37:55.875 - Loaded version: "v4.0.30319"
+8188: 11:37:56.046 - Photon host runtime loaded
+8188: 11:38:00.876 - License is valid.
+8188: 11:38:00.876 - Licensed for 100 concurrent connections.
+8188: 11:38:00.876 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+8188: 11:38:00.876 - Per peer bandwidth limit
+8188: 11:38:00.876 - Transmit Rate Limit: 256 KB/Sec
+8188: 11:38:00.876 - Limit period: 200ms
+8188: 11:38:00.876 - Limit per period: 52428 bytes
+8188: 11:38:00.876 - Max queued data for transmission per peer: 512000 bytes
+8188: 11:38:00.876 - Minimum retransmit timeout: 200
+8188: 11:38:00.876 - Minimum ENet timeout: 5000ms
+8188: 11:38:00.876 - Maximum ENet timeout: 30000ms
+8188: 11:38:00.876 - CENetHost: Using Timer Wheel
+8188: 11:38:00.876 - About to load application: PB.MmoServer from PB.MmoServer
+8188: 11:38:00.876 - Auto restart is enabled for application
+8188: 11:38:00.876 - Application will restart 1000ms after the last change detected
+8188: 11:38:00.876 - Application will restart if files matching the following are changed: "dll;config"
+8188: 11:38:00.876 - Application will NOT restart if files matching the following are changed: "log4net.config"
+8188: 11:38:01.117 - Application: "PB.MmoServer" started in app domain: 2
+8188: 11:38:01.117 - About to load application: Lite from Lite
+8188: 11:38:01.117 - Auto restart is enabled for application, existing connections will be terminated during restart
+8188: 11:38:01.117 - Application will restart 1000ms after the last change detected
+8188: 11:38:01.117 - Application will restart if files matching the following are changed: "dll;config"
+8188: 11:38:01.117 - Application will NOT restart if files matching the following are changed: "log4net.config"
+8188: 11:38:01.324 - Application: "Lite" started in app domain: 3
+8188: 11:38:01.324 - About to load application: LiteLobby from LiteLobby
+8188: 11:38:01.324 - Auto restart is enabled for application, existing connections will be terminated during restart
+8188: 11:38:01.324 - Application will restart 1000ms after the last change detected
+8188: 11:38:01.324 - Application will restart if files matching the following are changed: "dll;config"
+8188: 11:38:01.324 - Application will NOT restart if files matching the following are changed: "log4net.config"
+8188: 11:38:01.507 - Application: "LiteLobby" started in app domain: 4
+8188: 11:38:01.507 - About to load application: CounterPublisher from CounterPublisher
+8188: 11:38:01.507 - Auto restart is enabled for application, existing connections will be terminated during restart
+8188: 11:38:01.507 - Application will restart 1000ms after the last change detected
+8188: 11:38:01.507 - Application will restart if files matching the following are changed: "dll;config"
+8188: 11:38:01.507 - Application will NOT restart if files matching the following are changed: "log4net.config"
+8188: 11:38:01.693 - Application: "CounterPublisher" started in app domain: 5
+8188: 11:38:01.693 - About to load application: Policy from Policy.Application
+8188: 11:38:01.759 - Application: "Policy" started in app domain: 6
+8188: 11:38:01.760 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+8188: 11:38:01.760 - TCP inactivity timeout: 5000ms
+8188: 11:38:01.760 - MaxInboundMessageSize: 512000
+8188: 11:38:01.760 - MaxOutboundMessageSize: 512000
+8188: 11:38:01.760 - Routing policy file requests to: "Policy"
+8188: 11:38:01.760 - MaxInboundMessageSize: 512000
+8188: 11:38:01.760 - MaxOutboundMessageSize: 512000
+8188: 11:38:01.760 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+8188: 11:38:01.761 - Adding UDP listener on :192.168.1.4: 5055 with a listen backlog of: 500
+8188: 11:38:01.761 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+8188: 11:38:01.761 - Adding TCP Policy listener on :0.0.0.0: 843 with a listen backlog of: 150 and routing to application: "Policy"
+8188: 11:38:01.761 - TCP inactivity timeout: 1000ms
+8188: 11:38:01.761 - Adding TCP Policy listener on :0.0.0.0: 943 with a listen backlog of: 150 and routing to application: "Policy"
+8188: 11:38:01.761 - TCP inactivity timeout: 1000ms
+8188: 11:38:01.761 - Adding WebSocket TCP listener on :0.0.0.0: 9090 with a listen backlog of: 150
+8188: 11:38:01.761 - Nagle disabled
+8188: 11:38:01.761 - TCP inactivity timeout: 10000ms
+8188: 11:38:01.761 - MaxInboundMessageSize: 512000
+8188: 11:38:01.761 - MaxOutboundMessageSize: 512000
+8188: 11:38:01.761 - Forcing all applications ids to: "Lite"
+8188: 11:38:01.826 - Service is running...
+8188: 11:43:22.150 - Service is stopped...
+8188: 11:43:22.150 - Server shutting down...
+8188: 11:43:22.150 - Notifying CLR applications of shutdown...
+8188: 11:43:22.242 - Shutting down TCP Outbound Connection Manager...
+8188: 11:43:22.242 - Shutting down ENet Outbound Connection Manager...
+8188: 11:43:22.242 - Disconnecting all outbound peers...
+8188: 11:43:22.242 - Shutting down ENet host...
+8188: 11:43:22.243 - Disconnecting all peers...
+8188: 11:43:22.243 - Shutting down socket servers...
+8188: 11:43:22.243 - Shutting down ENet thread pool...
+8188: 11:43:22.243 - Shutting down TCP inactivity timers...
+8188: 11:43:22.243 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+8188: 11:43:22.243 - OnShutdownCompleted: TCP:0.0.0.0:4530
+8188: 11:43:22.243 - WaitingForShutdownToComplete: TCPPolicy:0.0.0.0:843
+8188: 11:43:22.243 - OnShutdownCompleted: TCPPolicy:0.0.0.0:843
+8188: 11:43:22.243 - WaitingForShutdownToComplete: TCPPolicy:0.0.0.0:943
+8188: 11:43:22.243 - OnShutdownCompleted: TCPPolicy:0.0.0.0:943
+8188: 11:43:22.243 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+8188: 11:43:22.243 - OnShutdownCompleted: UDP:127.0.0.1:5055
+8188: 11:43:22.243 - WaitingForShutdownToComplete: UDP:192.168.1.4:5055
+8188: 11:43:22.243 - OnShutdownCompleted: UDP:192.168.1.4:5055
+8188: 11:43:22.243 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+8188: 11:43:22.243 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+8188: 11:43:22.243 - Shutting down CLR applications...
+6184: 11:43:22.245 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+8188: 11:43:22.252 - Shutting down business logic thread pool...
+8188: 11:43:22.252 - Shutting down I/O thread pool...
+8188: 11:43:22.253 - Flushing ENET buffer allocator...
+8188: 11:43:22.253 - Flushing TCP buffer allocator...
+8188: 11:43:22.253 - Flushing TCP buffer handle allocator...
+8188: 11:43:22.253 - Flushing stream socket allocator...
+8188: 11:43:22.253 - Flushing inbound datagram socket allocator...
+8188: 11:43:22.254 - Flushing outbound datagram socket allocator...
+8188: 11:43:22.254 - Destroying ENet thread pool
+8188: 11:43:22.254 - Destroying Business logic thread pool
+8188: 11:43:22.254 - Destroying servers
+8188: 11:43:22.254 - Destroying TCP Outbound Connection Manager
+8188: 11:43:22.254 - Destroying resolver
+8188: 11:43:22.254 - Destroying TCP Proxy Connection Manager
+8188: 11:43:22.254 - Destroying TCP inactivity timer
+8188: 11:43:22.254 - Destroying ENet host
+8188: 11:43:22.254 - Destroying ENet host
+8188: 11:43:22.254 - Destroying CLR dispatcher
+8188: 11:43:22.254 - Destroying CLR applications
+4736: 11:43:22.258 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='5'
+8188: 11:43:22.336 - Destroying I/O thread pool
+8188: 11:43:22.336 - Destroying ENet buffer allocator
+8188: 11:43:22.337 - Destroying TCP buffer allocator
+8188: 11:43:22.337 - Destroying TCP socket allocator
+8188: 11:43:22.337 - Destroying ENet inbound socket allocator
+8188: 11:43:22.337 - Destroying ENet outbound socket allocator
+8188: 11:43:22.337 - Destroying performance counters
+8188: 11:43:22.337 - Shutdown complete...
+3664: 11:43:22.337 - Service shutting down
+3664: 11:43:22.337 - Service shut down complete
+6884: 13:24:35.379 - ---
+6884: 13:24:35.379 - Service: "Photon Socket Server" starting
+6884: 13:24:35.379 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+6884: 13:24:35.380 - Will produce at most: 10 crash dumps
+6884: 13:24:35.380 - Action:service
+8084: 13:24:35.381 - Server Starting...
+8084: 13:24:35.381 -    Tick count: 9363117 (wraps in: 49.6019 days)
+8084: 13:24:35.381 - Tick count 64: 9363117
+8084: 13:24:35.381 - Photon Version: 3.0.27.1684
+8084: 13:24:35.381 - PID: 4304
+8084: 13:24:35.381 - Current directory is: C:\Windows\system32
+8084: 13:24:35.381 - Changing current directory to: C:\Server\Photon3\deploy\bin_Win64
+8084: 13:24:35.381 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+8084: 13:24:35.391 - Not using performance counters. The installed counters do not match the counter dll
+8084: 13:24:35.391 - Run the service with /InstallCounters to reinstall the latest counters.
+8084: 13:24:35.392 - Max message size: 512000
+8084: 13:24:35.392 - S2S: MaxInboundMessageSize: 512000
+8084: 13:24:35.392 - S2S: MaxOutboundMessageSize: 512000
+8084: 13:24:35.392 - S2S: No inactivity timeout
+8084: 13:24:35.395 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+8084: 13:24:35.395 - Per peer bandwidth limit
+8084: 13:24:35.395 - Transmit Rate Limit: 256 KB/Sec
+8084: 13:24:35.395 - Limit period: 200ms
+8084: 13:24:35.395 - Limit per period: 52428 bytes
+8084: 13:24:35.395 - Max queued data for transmission per peer: 512000 bytes
+8084: 13:24:35.395 - Minimum retransmit timeout: 200
+8084: 13:24:35.395 - Minimum ENet timeout: 5000ms
+8084: 13:24:35.395 - Maximum ENet timeout: 30000ms
+8084: 13:24:35.395 - Outbound ENet: MaxInboundMessageSize: 512000
+8084: 13:24:35.395 - Outbound ENet: MaxOutboundMessageSize: 512000
+8084: 13:24:35.399 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+8084: 13:24:35.399 - CLRBaseDirectory set to "C:\Server\Photon3\deploy"
+8084: 13:24:35.399 - Optimising event broadcast for 20 or more peers
+8084: 13:24:35.400 - About to load CLR - versions available:
+8084: 13:24:35.400 - v2.0.50727
+8084: 13:24:35.400 - v4.0.30319
+8084: 13:24:35.400 - No preference in configuration file, will load latest.
+8084: 13:24:35.400 - About to load version: "v4.0.30319"
+8084: 13:24:35.402 - Loaded version: "v4.0.30319"
+8084: 13:24:35.631 - Photon host runtime loaded
+8084: 13:24:40.786 - License is valid.
+8084: 13:24:40.786 - Licensed for 100 concurrent connections.
+8084: 13:24:40.787 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+8084: 13:24:40.787 - Per peer bandwidth limit
+8084: 13:24:40.787 - Transmit Rate Limit: 256 KB/Sec
+8084: 13:24:40.787 - Limit period: 200ms
+8084: 13:24:40.787 - Limit per period: 52428 bytes
+8084: 13:24:40.787 - Max queued data for transmission per peer: 512000 bytes
+8084: 13:24:40.787 - Minimum retransmit timeout: 200
+8084: 13:24:40.787 - Minimum ENet timeout: 5000ms
+8084: 13:24:40.787 - Maximum ENet timeout: 30000ms
+8084: 13:24:40.787 - CENetHost: Using Timer Wheel
+8084: 13:24:40.787 - About to load application: PB.MmoServer from PB.MmoServer
+8084: 13:24:40.787 - Auto restart is enabled for application
+8084: 13:24:40.787 - Application will restart 1000ms after the last change detected
+8084: 13:24:40.787 - Application will restart if files matching the following are changed: "dll;config"
+8084: 13:24:40.787 - Application will NOT restart if files matching the following are changed: "log4net.config"
+8084: 13:24:40.888 - Application: "PB.MmoServer" started in app domain: 2
+8084: 13:24:40.888 - About to load application: Lite from Lite
+8084: 13:24:40.888 - Auto restart is enabled for application, existing connections will be terminated during restart
+8084: 13:24:40.888 - Application will restart 1000ms after the last change detected
+8084: 13:24:40.888 - Application will restart if files matching the following are changed: "dll;config"
+8084: 13:24:40.888 - Application will NOT restart if files matching the following are changed: "log4net.config"
+8084: 13:24:40.973 - Application: "Lite" started in app domain: 3
+8084: 13:24:40.973 - About to load application: LiteLobby from LiteLobby
+8084: 13:24:40.973 - Auto restart is enabled for application, existing connections will be terminated during restart
+8084: 13:24:40.973 - Application will restart 1000ms after the last change detected
+8084: 13:24:40.973 - Application will restart if files matching the following are changed: "dll;config"
+8084: 13:24:40.973 - Application will NOT restart if files matching the following are changed: "log4net.config"
+8084: 13:24:41.061 - Application: "LiteLobby" started in app domain: 4
+8084: 13:24:41.061 - About to load application: CounterPublisher from CounterPublisher
+8084: 13:24:41.061 - Auto restart is enabled for application, existing connections will be terminated during restart
+8084: 13:24:41.061 - Application will restart 1000ms after the last change detected
+8084: 13:24:41.061 - Application will restart if files matching the following are changed: "dll;config"
+8084: 13:24:41.061 - Application will NOT restart if files matching the following are changed: "log4net.config"
+8084: 13:24:41.148 - Application: "CounterPublisher" started in app domain: 5
+8084: 13:24:41.148 - About to load application: Policy from Policy.Application
+8084: 13:24:41.199 - Application: "Policy" started in app domain: 6
+8084: 13:24:41.199 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+8084: 13:24:41.200 - TCP inactivity timeout: 5000ms
+8084: 13:24:41.200 - MaxInboundMessageSize: 512000
+8084: 13:24:41.200 - MaxOutboundMessageSize: 512000
+8084: 13:24:41.200 - Routing policy file requests to: "Policy"
+8084: 13:24:41.200 - MaxInboundMessageSize: 512000
+8084: 13:24:41.200 - MaxOutboundMessageSize: 512000
+8084: 13:24:41.200 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+8084: 13:24:41.200 - Adding UDP listener on :192.168.1.4: 5055 with a listen backlog of: 500
+8084: 13:24:41.200 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+8084: 13:24:41.200 - Adding TCP Policy listener on :0.0.0.0: 843 with a listen backlog of: 150 and routing to application: "Policy"
+8084: 13:24:41.200 - TCP inactivity timeout: 1000ms
+8084: 13:24:41.200 - Adding TCP Policy listener on :0.0.0.0: 943 with a listen backlog of: 150 and routing to application: "Policy"
+8084: 13:24:41.200 - TCP inactivity timeout: 1000ms
+8084: 13:24:41.201 - Adding WebSocket TCP listener on :0.0.0.0: 9090 with a listen backlog of: 150
+8084: 13:24:41.201 - Nagle disabled
+8084: 13:24:41.201 - TCP inactivity timeout: 10000ms
+8084: 13:24:41.201 - MaxInboundMessageSize: 512000
+8084: 13:24:41.201 - MaxOutboundMessageSize: 512000
+8084: 13:24:41.201 - Forcing all applications ids to: "Lite"
+8084: 13:24:41.267 - Service is running...

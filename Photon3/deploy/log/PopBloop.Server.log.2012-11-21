@@ -1,0 +1,96 @@
+2012-11-21 14:36:31,888 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PB.MmoServer; AppPath=C:\Server\Photon3\deploy\PB.MmoServer, Type=PB.MmoServer.PhotonApplication 
+2012-11-21 14:36:31,936 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started on: 255.255.255.255:40001
+2012-11-21 15:30:21,946 [32] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=PB.MmoServer
+2012-11-21 15:30:21,948 [32] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=PB.MmoServer
+2012-11-21 15:35:31,236 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 15:35:31,250 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 15:35:36,980 [8] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 15:35:38,077 [14] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (10, 10), Entities Count: 13
+2012-11-21 15:36:59,993 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 15:36:59,993 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 15:37:03,602 [6] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 15:37:03,696 [25] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 15:37:04,596 [16] INFO  PB.MmoServer.MmoPeer - Create World
+2012-11-21 15:37:04,643 [19] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 15:42:41,831 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 15:42:41,831 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 15:42:45,102 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 15:42:45,198 [15] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 15:42:45,950 [22] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 15:42:57,609 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 15:42:57,609 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 15:42:57,635 [25] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 15:42:57,655 [14] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 13
+2012-11-21 15:42:58,591 [27] INFO  PB.MmoServer.MmoPeer - Create World
+2012-11-21 15:42:58,765 [12] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 15:43:45,441 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 15:43:45,441 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 15:43:45,471 [29] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 15:43:45,490 [19] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 13
+2012-11-21 15:43:45,727 [23] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 15:53:22,521 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 15:53:22,521 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 15:53:25,860 [27] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 15:53:25,946 [18] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 56
+2012-11-21 15:53:31,176 [18] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 16:10:17,866 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 16:10:17,866 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 16:10:21,005 [29] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 16:10:21,091 [26] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 16:10:21,802 [28] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 16:10:25,052 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 16:10:25,052 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 16:10:25,078 [31] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 16:10:25,097 [14] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 56
+2012-11-21 16:10:30,050 [14] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 16:10:41,809 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 16:10:41,809 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 16:10:41,834 [29] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 16:10:41,856 [18] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 16:10:41,942 [27] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 16:11:44,118 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 16:11:44,118 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 16:11:47,393 [4] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 16:11:47,478 [11] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 16:11:48,197 [28] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 16:11:51,492 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 16:11:51,492 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 16:11:51,528 [4] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 16:11:51,556 [29] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 56
+2012-11-21 16:11:56,379 [17] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 16:13:08,784 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 16:13:08,784 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 16:13:11,670 [25] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 16:13:11,764 [4] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 16:13:12,484 [23] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 16:13:26,531 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 16:13:26,531 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 16:13:26,560 [20] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 16:13:26,578 [27] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 56
+2012-11-21 16:13:31,593 [29] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 16:14:47,470 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 16:14:47,470 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 16:14:47,514 [23] INFO  PB.MmoServer.MmoPeer - Authenticating...: 2af145c450ca05295bb4b68eed460db5
+2012-11-21 16:14:47,655 [28] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 16:14:49,087 [13] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 17:33:57,602 [32] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=PB.MmoServer
+2012-11-21 17:33:57,604 [32] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=PB.MmoServer
+2012-11-21 17:34:25,124 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 17:34:25,137 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 17:34:28,054 [19] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 17:34:28,642 [8] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 17:39:26,877 [32] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=PB.MmoServer
+2012-11-21 17:39:26,878 [32] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=PB.MmoServer
+2012-11-21 17:39:37,318 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 17:39:37,330 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 17:39:42,090 [14] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 17:39:42,636 [10] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-21 17:39:43,383 [29] INFO  PB.MmoServer.MmoPeer - Create World
+2012-11-21 17:39:43,411 [6] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 17:39:51,898 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-21 17:39:51,898 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-21 17:39:51,922 [31] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-21 17:39:51,942 [18] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 56
+2012-11-21 17:39:56,789 [22] INFO  PB.MmoServer.MmoPeer - Create World
+2012-11-21 17:39:56,911 [34] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-21 18:12:51,527 [19] WARN  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher stopped working because of a network loss

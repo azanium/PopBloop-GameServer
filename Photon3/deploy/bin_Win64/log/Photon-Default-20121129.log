@@ -1,0 +1,11 @@
+19452: 11:10:16.995 - Restarting application: "PB.MmoServer" due to file changes
+19452: 11:10:17.031 - Application: "PB.MmoServer" restart request
+19452: 11:10:17.275 - Failed to restart application: CManagedHost::CreateApplicationInNewAppDomain() - Failed to create new application domain for : "PB.MmoServer" - Can't find PB.MmoServer.dll in C:\Server\Photon3\deploy\PB.MmoServer\bin or C:\Server\Photon3\deploy\PB.MmoServer\bin
+19452: 11:10:24.829 - Restarting application: "PB.MmoServer" due to file changes
+19452: 11:10:24.829 - Application: "PB.MmoServer" restart request
+19452: 11:10:26.369 - Application: "PB.MmoServer" started in app domain: 13
+19452: 11:10:30.370 - Application: "PB.MmoServer" stopped in app domain: 12
+19452: 11:10:30.370 - Application: "PB.MmoServer" restart complete.
+9800: 11:10:30.370 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+2012: 11:10:30.374 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='12'
+9800: 11:10:30.456 - CManagedHost::OnDomainUnload() - 12

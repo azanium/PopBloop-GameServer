@@ -1,0 +1,154 @@
+1632: 11:34:21.636 - Service is stopped...
+1632: 11:34:21.636 - Server shutting down...
+1632: 11:34:21.636 - Notifying CLR applications of shutdown...
+1632: 11:34:22.026 - Shutting down TCP Outbound Connection Manager...
+1632: 11:34:22.041 - Shutting down ENet Outbound Connection Manager...
+1632: 11:34:22.073 - Disconnecting all outbound peers...
+1632: 11:34:22.213 - Shutting down ENet host...
+1632: 11:34:22.213 - Disconnecting all peers...
+1632: 11:34:22.213 - Shutting down socket servers...
+1632: 11:34:22.213 - Shutting down ENet thread pool...
+1632: 11:34:22.213 - Shutting down TCP inactivity timers...
+1632: 11:34:22.213 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+1632: 11:34:22.213 - OnShutdownCompleted: TCP:0.0.0.0:4530
+1632: 11:34:22.213 - WaitingForShutdownToComplete: TCPPolicy:0.0.0.0:843
+1632: 11:34:22.213 - OnShutdownCompleted: TCPPolicy:0.0.0.0:843
+1632: 11:34:22.213 - WaitingForShutdownToComplete: TCPPolicy:0.0.0.0:943
+1632: 11:34:22.213 - OnShutdownCompleted: TCPPolicy:0.0.0.0:943
+1632: 11:34:22.213 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+1632: 11:34:22.213 - OnShutdownCompleted: UDP:127.0.0.1:5055
+1632: 11:34:22.213 - WaitingForShutdownToComplete: UDP:192.168.1.4:5055
+1632: 11:34:22.213 - OnShutdownCompleted: UDP:192.168.1.4:5055
+1632: 11:34:22.213 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+1632: 11:34:22.213 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+1632: 11:34:22.213 - Shutting down CLR applications...
+1632: 11:34:22.307 - Shutting down business logic thread pool...
+1632: 11:34:22.322 - Shutting down I/O thread pool...
+1632: 11:34:22.322 - Flushing ENET buffer allocator...
+3608: 11:34:22.322 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+1632: 11:34:22.322 - Flushing TCP buffer allocator...
+1632: 11:34:22.322 - Flushing TCP buffer handle allocator...
+1632: 11:34:22.322 - Flushing stream socket allocator...
+1632: 11:34:22.322 - Flushing inbound datagram socket allocator...
+1632: 11:34:22.322 - Flushing outbound datagram socket allocator...
+1632: 11:34:22.322 - Destroying ENet thread pool
+1632: 11:34:22.322 - Destroying Business logic thread pool
+1632: 11:34:22.322 - Destroying servers
+1632: 11:34:22.385 - Destroying TCP Outbound Connection Manager
+3596: 11:34:22.385 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='5'
+1632: 11:34:22.385 - Destroying resolver
+1632: 11:34:22.385 - Destroying TCP Proxy Connection Manager
+1632: 11:34:22.385 - Destroying TCP inactivity timer
+1632: 11:34:22.385 - Destroying ENet host
+1632: 11:34:22.385 - Destroying ENet host
+1632: 11:34:22.385 - Destroying CLR dispatcher
+1632: 11:34:22.385 - Destroying CLR applications
+1632: 11:34:22.541 - Destroying I/O thread pool
+1632: 11:34:22.541 - Destroying ENet buffer allocator
+1632: 11:34:22.541 - Destroying TCP buffer allocator
+1632: 11:34:22.541 - Destroying TCP socket allocator
+1632: 11:34:22.541 - Destroying ENet inbound socket allocator
+1632: 11:34:22.541 - Destroying ENet outbound socket allocator
+1632: 11:34:22.541 - Destroying performance counters
+1632: 11:34:22.541 - Shutdown complete...
+2428: 11:34:23.524 - Service shutting down
+2428: 11:34:23.524 - Service shut down complete
+2292: 11:35:50.824 - ---
+2292: 11:35:50.824 - Service: "Photon Socket Server" starting
+2292: 11:35:50.824 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+2292: 11:35:50.824 - Will produce at most: 10 crash dumps
+2292: 11:35:50.824 - Action:service
+2464: 11:35:50.824 - Server Starting...
+2464: 11:35:50.824 -    Tick count: 50559 (wraps in: 49.7097 days)
+2464: 11:35:50.824 - Tick count 64: 50559
+2464: 11:35:50.824 - Photon Version: 3.0.27.1684
+2464: 11:35:50.824 - PID: 2288
+2464: 11:35:50.824 - Current directory is: C:\Windows\system32
+2464: 11:35:50.824 - Changing current directory to: C:\Server\Photon3\deploy\bin_Win64
+2464: 11:35:50.824 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+2464: 11:35:52.868 - Not using performance counters. The installed counters do not match the counter dll
+2464: 11:35:52.868 - Run the service with /InstallCounters to reinstall the latest counters.
+2464: 11:35:52.868 - Max message size: 512000
+2464: 11:35:52.884 - S2S: MaxInboundMessageSize: 512000
+2464: 11:35:52.884 - S2S: MaxOutboundMessageSize: 512000
+2464: 11:35:52.884 - S2S: No inactivity timeout
+2464: 11:35:52.915 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+2464: 11:35:52.915 - Per peer bandwidth limit
+2464: 11:35:52.915 - Transmit Rate Limit: 256 KB/Sec
+2464: 11:35:52.915 - Limit period: 200ms
+2464: 11:35:52.915 - Limit per period: 52428 bytes
+2464: 11:35:52.915 - Max queued data for transmission per peer: 512000 bytes
+2464: 11:35:52.915 - Minimum retransmit timeout: 200
+2464: 11:35:52.915 - Minimum ENet timeout: 5000ms
+2464: 11:35:52.915 - Maximum ENet timeout: 30000ms
+2464: 11:35:52.915 - Outbound ENet: MaxInboundMessageSize: 512000
+2464: 11:35:52.915 - Outbound ENet: MaxOutboundMessageSize: 512000
+2464: 11:36:01.027 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+2464: 11:36:01.027 - CLRBaseDirectory set to "C:\Server\Photon3\deploy"
+2464: 11:36:01.027 - Optimising event broadcast for 20 or more peers
+2464: 11:36:01.074 - About to load CLR - versions available:
+2464: 11:36:01.074 - v2.0.50727
+2464: 11:36:01.074 - v4.0.30319
+2464: 11:36:01.074 - No preference in configuration file, will load latest.
+2464: 11:36:01.074 - About to load version: "v4.0.30319"
+2464: 11:36:05.192 - Loaded version: "v4.0.30319"
+2464: 11:36:10.106 - Photon host runtime loaded
+2464: 11:36:17.734 - License is valid.
+2464: 11:36:17.734 - Licensed for 100 concurrent connections.
+2464: 11:36:17.734 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+2464: 11:36:17.734 - Per peer bandwidth limit
+2464: 11:36:17.734 - Transmit Rate Limit: 256 KB/Sec
+2464: 11:36:17.734 - Limit period: 200ms
+2464: 11:36:17.734 - Limit per period: 52428 bytes
+2464: 11:36:17.734 - Max queued data for transmission per peer: 512000 bytes
+2464: 11:36:17.734 - Minimum retransmit timeout: 200
+2464: 11:36:17.734 - Minimum ENet timeout: 5000ms
+2464: 11:36:17.734 - Maximum ENet timeout: 30000ms
+2464: 11:36:17.734 - CENetHost: Using Timer Wheel
+2464: 11:36:17.734 - About to load application: PB.MmoServer from PB.MmoServer
+2464: 11:36:17.734 - Auto restart is enabled for application
+2464: 11:36:17.734 - Application will restart 1000ms after the last change detected
+2464: 11:36:17.734 - Application will restart if files matching the following are changed: "dll;config"
+2464: 11:36:17.734 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2464: 11:36:18.608 - Application: "PB.MmoServer" started in app domain: 2
+2464: 11:36:18.608 - About to load application: Lite from Lite
+2464: 11:36:18.608 - Auto restart is enabled for application, existing connections will be terminated during restart
+2464: 11:36:18.608 - Application will restart 1000ms after the last change detected
+2464: 11:36:18.608 - Application will restart if files matching the following are changed: "dll;config"
+2464: 11:36:18.608 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2464: 11:36:18.998 - Application: "Lite" started in app domain: 3
+2464: 11:36:18.998 - About to load application: LiteLobby from LiteLobby
+2464: 11:36:18.998 - Auto restart is enabled for application, existing connections will be terminated during restart
+2464: 11:36:18.998 - Application will restart 1000ms after the last change detected
+2464: 11:36:18.998 - Application will restart if files matching the following are changed: "dll;config"
+2464: 11:36:18.998 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2464: 11:36:19.404 - Application: "LiteLobby" started in app domain: 4
+2464: 11:36:19.404 - About to load application: CounterPublisher from CounterPublisher
+2464: 11:36:19.404 - Auto restart is enabled for application, existing connections will be terminated during restart
+2464: 11:36:19.404 - Application will restart 1000ms after the last change detected
+2464: 11:36:19.404 - Application will restart if files matching the following are changed: "dll;config"
+2464: 11:36:19.404 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2464: 11:36:19.700 - Application: "CounterPublisher" started in app domain: 5
+2464: 11:36:19.700 - About to load application: Policy from Policy.Application
+2464: 11:36:19.856 - Application: "Policy" started in app domain: 6
+2464: 11:36:19.856 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+2464: 11:36:19.856 - TCP inactivity timeout: 5000ms
+2464: 11:36:19.856 - MaxInboundMessageSize: 512000
+2464: 11:36:19.856 - MaxOutboundMessageSize: 512000
+2464: 11:36:19.856 - Routing policy file requests to: "Policy"
+2464: 11:36:19.856 - MaxInboundMessageSize: 512000
+2464: 11:36:19.856 - MaxOutboundMessageSize: 512000
+2464: 11:36:19.856 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+2464: 11:36:19.856 - Adding UDP listener on :192.168.1.4: 5055 with a listen backlog of: 500
+2464: 11:36:19.856 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+2464: 11:36:19.856 - Adding TCP Policy listener on :0.0.0.0: 843 with a listen backlog of: 150 and routing to application: "Policy"
+2464: 11:36:19.856 - TCP inactivity timeout: 1000ms
+2464: 11:36:19.856 - Adding TCP Policy listener on :0.0.0.0: 943 with a listen backlog of: 150 and routing to application: "Policy"
+2464: 11:36:19.856 - TCP inactivity timeout: 1000ms
+2464: 11:36:19.856 - Adding WebSocket TCP listener on :0.0.0.0: 9090 with a listen backlog of: 150
+2464: 11:36:19.856 - Nagle disabled
+2464: 11:36:19.856 - TCP inactivity timeout: 10000ms
+2464: 11:36:19.856 - MaxInboundMessageSize: 512000
+2464: 11:36:19.856 - MaxOutboundMessageSize: 512000
+2464: 11:36:19.856 - Forcing all applications ids to: "Lite"
+2464: 11:36:19.903 - Service is running...

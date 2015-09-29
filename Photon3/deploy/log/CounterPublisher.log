@@ -1,0 +1,328 @@
+2012-08-13 11:38:03,535 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-13 11:38:03,554 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-13 11:38:03,559 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-13 11:43:22,231 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-08-13 11:43:22,245 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-08-13 13:24:42,810 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-13 13:24:42,829 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-13 13:24:42,834 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-15 11:06:04,096 [6] ERROR ExitGames.Diagnostics.Monitoring.CounterSamplePublisher [(null)] - Error during update.
+System.UnauthorizedAccessException: Access to the registry key '230' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.InternalGetValue(String name, Object defaultValue, Boolean doNotExpand, Boolean checkSecurity)
+   at Microsoft.Win32.RegistryKey.GetValue(String name)
+   at System.Diagnostics.PerformanceMonitor.GetData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetPerformanceData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at ExitGames.Diagnostics.Counter.PerformanceCounterReader.TryGetValue(Single& value)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#e.#x.#yb(DateTime currentTimeStamp, CounterSample& counterSample)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.Update()
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#tb(Object )
+2012-08-15 11:10:10,817 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-15 11:10:10,848 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-15 11:10:10,848 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-16 11:32:14,963 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-08-16 11:32:15,046 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-08-16 12:30:37,043 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-16 12:30:37,058 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-16 12:30:37,058 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-19 08:43:27,577 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-08-19 08:43:27,655 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-08-26 18:16:53,135 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-26 18:16:53,173 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-26 18:16:53,178 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-28 06:37:56,110 [11] ERROR ExitGames.Diagnostics.Monitoring.CounterSamplePublisher [(null)] - Error during update.
+System.UnauthorizedAccessException: Access to the registry key '230' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.InternalGetValue(String name, Object defaultValue, Boolean doNotExpand, Boolean checkSecurity)
+   at Microsoft.Win32.RegistryKey.GetValue(String name)
+   at System.Diagnostics.PerformanceMonitor.GetData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetPerformanceData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at ExitGames.Diagnostics.Counter.PerformanceCounterReader.TryGetValue(Single& value)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#e.#x.#yb(DateTime currentTimeStamp, CounterSample& counterSample)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.Update()
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#tb(Object )
+2012-08-28 06:40:34,374 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-28 06:40:34,402 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-28 06:40:34,416 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-28 06:40:37,315 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-08-28 06:40:37,326 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-08-28 10:46:29,428 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-28 10:46:29,524 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-28 10:46:29,543 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-28 17:28:23,022 [15] ERROR ExitGames.Diagnostics.Monitoring.CounterSamplePublisher [(null)] - Error during update.
+System.UnauthorizedAccessException: Access to the registry key '230' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.InternalGetValue(String name, Object defaultValue, Boolean doNotExpand, Boolean checkSecurity)
+   at Microsoft.Win32.RegistryKey.GetValue(String name)
+   at System.Diagnostics.PerformanceMonitor.GetData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetPerformanceData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at ExitGames.Diagnostics.Counter.PerformanceCounterReader.TryGetValue(Single& value)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#e.#x.#yb(DateTime currentTimeStamp, CounterSample& counterSample)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.Update()
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#tb(Object )
+2012-08-28 17:32:50,229 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-28 17:32:50,267 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-28 17:32:50,376 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-31 14:06:45,216 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-08-31 14:06:45,333 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-08-31 14:06:45,338 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-01 09:53:06,386 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-01 09:53:06,415 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-09-01 09:53:06,426 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-04 10:20:11,786 [20] ERROR ExitGames.Diagnostics.Monitoring.CounterSamplePublisher [(null)] - Error during update.
+System.UnauthorizedAccessException: Access to the registry key '230' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.InternalGetValue(String name, Object defaultValue, Boolean doNotExpand, Boolean checkSecurity)
+   at Microsoft.Win32.RegistryKey.GetValue(String name)
+   at System.Diagnostics.PerformanceMonitor.GetData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetPerformanceData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at ExitGames.Diagnostics.Counter.PerformanceCounterReader.TryGetValue(Single& value)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#e.#x.#yb(DateTime currentTimeStamp, CounterSample& counterSample)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.Update()
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#tb(Object )
+2012-09-04 10:23:28,228 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-04 10:23:28,303 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-09-04 10:23:28,315 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-10 16:15:06,181 [27] ERROR ExitGames.Diagnostics.Monitoring.CounterSamplePublisher [(null)] - Error during update.
+System.UnauthorizedAccessException: Access to the registry key '230' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.InternalGetValue(String name, Object defaultValue, Boolean doNotExpand, Boolean checkSecurity)
+   at Microsoft.Win32.RegistryKey.GetValue(String name)
+   at System.Diagnostics.PerformanceMonitor.GetData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetPerformanceData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at ExitGames.Diagnostics.Counter.PerformanceCounterReader.TryGetValue(Single& value)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#e.#x.#yb(DateTime currentTimeStamp, CounterSample& counterSample)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.Update()
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#tb(Object )
+2012-09-10 16:17:50,241 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-10 16:17:50,338 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-09-10 16:17:50,342 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-10 17:39:35,427 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-09-10 17:39:35,677 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-09-10 17:42:36,479 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-10 17:42:36,511 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-09-10 17:42:36,517 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-11 11:34:21,651 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-09-11 11:34:22,213 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-09-11 11:37:24,378 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-11 11:37:24,456 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-09-11 11:37:24,581 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-12 15:44:18,461 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-12 15:44:18,496 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-09-12 15:44:18,546 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-13 03:15:29,096 [8] ERROR ExitGames.Diagnostics.Monitoring.CounterSamplePublisher [(null)] - Error during update.
+System.UnauthorizedAccessException: Access to the registry key '230' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.InternalGetValue(String name, Object defaultValue, Boolean doNotExpand, Boolean checkSecurity)
+   at Microsoft.Win32.RegistryKey.GetValue(String name)
+   at System.Diagnostics.PerformanceMonitor.GetData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetPerformanceData(String item)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at ExitGames.Diagnostics.Counter.PerformanceCounterReader.TryGetValue(Single& value)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#e.#x.#yb(DateTime currentTimeStamp, CounterSample& counterSample)
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.Update()
+   at ExitGames.Diagnostics.Monitoring.CounterSamplePublisher.#tb(Object )
+2012-09-13 03:18:36,089 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-13 03:18:36,121 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-09-13 03:18:36,292 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-09-14 17:25:19,538 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-09-14 17:25:19,601 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-11-21 14:36:29,481 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-11-21 14:36:29,532 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-11-21 14:36:29,649 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-11-21 18:12:52,764 [12] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2012-11-27 11:35:37,435 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-11-27 11:35:38,025 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-11-27 11:35:55,282 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-11-27 11:35:55,302 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-11-27 11:35:55,324 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-11-30 08:34:27,269 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-11-30 08:34:34,176 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-11-30 08:37:02,381 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-11-30 08:37:02,631 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-11-30 08:37:02,725 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-01 11:52:42,792 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-01 11:52:43,386 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-01 11:54:53,698 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-01 11:54:53,745 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-01 11:54:53,792 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-03 09:14:22,991 [20] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2012-12-06 12:18:23,907 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-06 12:18:32,612 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-06 12:20:30,370 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-06 12:20:30,416 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-06 12:20:30,479 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-07 14:47:41,548 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-07 14:47:41,579 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-07 14:47:41,611 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-07 17:20:42,865 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-07 17:20:42,912 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-07 17:20:42,959 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-11 19:34:26,997 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-11 19:34:27,013 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-11 19:34:27,091 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-12 09:37:34,378 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-12 09:37:34,394 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-12 09:39:44,471 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-12 09:39:44,502 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-12 09:39:44,580 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-13 12:44:52,399 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-13 12:44:54,478 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-13 12:47:15,588 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-13 12:47:15,603 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-13 12:47:15,713 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-13 16:01:10,843 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-13 16:01:10,874 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-13 16:04:14,516 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-13 16:04:14,548 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-13 16:04:14,610 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-13 18:09:19,468 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-13 18:09:19,625 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-13 18:11:37,133 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-13 18:11:37,164 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-13 18:11:37,195 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-14 13:12:14,024 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-14 13:12:14,039 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-14 13:14:26,071 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-14 13:14:26,258 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-14 13:14:26,321 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-17 12:38:58,135 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-17 12:39:03,371 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-17 12:41:31,476 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-17 12:41:31,507 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-17 12:41:31,539 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-17 16:56:25,950 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-17 16:56:25,992 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-17 16:59:34,950 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-17 16:59:34,972 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-17 16:59:34,977 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-18 07:41:14,894 [29] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2012-12-18 07:41:14,894 [24] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2012-12-18 17:04:51,803 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-18 17:04:51,850 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-18 17:04:51,943 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-19 09:54:48,756 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-19 09:54:48,772 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-19 09:54:48,788 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-20 10:56:20,876 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-20 10:56:20,908 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-20 10:56:20,954 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-20 15:03:53,481 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-20 15:03:53,513 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-20 15:03:53,544 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-21 08:51:53,728 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-21 08:51:53,759 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-21 08:51:53,790 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-21 13:43:37,253 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-21 13:43:37,309 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-23 22:29:42,524 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-23 22:29:42,571 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-23 22:29:42,649 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-24 10:25:54,944 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-24 10:25:54,976 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-24 10:25:55,007 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-24 18:23:30,828 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-24 18:23:30,859 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-24 18:23:30,906 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-25 11:07:03,589 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-25 11:07:03,620 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-25 11:07:03,636 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-26 16:41:22,520 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-26 16:41:23,271 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-26 16:57:02,699 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-26 16:57:02,778 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-26 16:57:03,215 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-26 17:20:49,820 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-26 17:20:50,117 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-26 17:24:22,255 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-26 17:24:22,286 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-26 17:24:22,302 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-27 10:08:50,152 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2012-12-27 10:08:50,590 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2012-12-27 10:11:23,884 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2012-12-27 10:11:23,931 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2012-12-27 10:11:24,009 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-01 22:25:02,206 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-01 22:25:02,237 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-01 22:25:02,284 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-02 04:20:00,060 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2013-01-02 04:20:00,075 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2013-01-02 04:21:45,239 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-02 04:21:45,270 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-02 04:21:45,301 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-02 04:21:46,364 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2013-01-02 04:21:46,395 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2013-01-02 04:26:26,579 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-02 04:26:26,595 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-02 04:26:26,658 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-02 04:26:27,908 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2013-01-02 04:26:27,923 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2013-01-02 15:04:50,193 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-02 15:04:50,225 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-02 15:04:50,256 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-02 15:51:40,213 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2013-01-02 15:51:40,244 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2013-01-02 15:55:14,872 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-02 15:55:14,903 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-02 15:55:14,903 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-08 09:51:18,782 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-08 09:51:18,813 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-08 09:51:18,829 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-09 17:38:20,521 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2013-01-09 17:38:21,146 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2013-01-09 17:41:20,898 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-09 17:41:20,944 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-09 17:41:21,038 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-11 13:41:04,592 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2013-01-11 13:41:07,202 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2013-01-11 13:43:55,326 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-11 13:43:55,373 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-11 13:43:55,404 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-12 18:16:57,754 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2013-01-12 18:16:58,067 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2013-01-12 18:20:31,994 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-12 18:20:32,040 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-12 18:20:32,087 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-14 08:46:08,444 [14] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2013-01-14 08:46:11,444 [30] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2013-01-14 08:54:34,835 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2013-01-14 08:54:34,978 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2013-01-14 14:24:13,967 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-14 14:24:14,167 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-14 14:24:15,573 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-14 19:45:20,693 [24] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2013-01-14 19:45:20,693 [21] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2013-01-14 19:45:22,649 [24] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2013-01-15 14:30:52,411 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-15 14:30:52,465 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-15 14:30:52,629 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-25 12:40:42,465 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-25 12:40:42,608 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-25 12:40:42,872 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-25 12:57:24,410 [9] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full
+2013-01-25 18:03:13,562 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-25 18:03:13,613 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-01-25 18:03:13,693 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-01-25 20:30:52,932 [12] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2013-01-25 20:30:52,933 [20] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2013-01-25 20:30:52,936 [20] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2013-02-15 15:09:16,616 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2013-02-15 15:09:16,670 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Server\Photon3\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2013-02-15 15:09:16,848 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001

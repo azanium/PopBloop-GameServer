@@ -1,0 +1,1 @@
+"D:\Server\Mongo\bin\mongod.exe" --auth  --directoryperdb  --logpath  "D:\Server\Mongo\logs\popbloop.db.log"  --dbpath  "D:\Server\Mongo\PopBloop.DB"  --remove

@@ -1,0 +1,198 @@
+4336: 10:34:32.525 - Restarting application: "PB.MmoServer" due to file changes
+4336: 10:34:32.555 - Application: "PB.MmoServer" restart request
+4336: 10:34:32.704 - Failed to restart application: CManagedHost::CreateApplicationInNewAppDomain() - Failed to create new application domain for : "PB.MmoServer" - Can't find PB.MmoServer.dll in C:\Server\Photon3\deploy\PB.MmoServer\bin or C:\Server\Photon3\deploy\PB.MmoServer\bin
+4336: 10:35:12.983 - Restarting application: "PB.MmoServer" due to file changes
+4336: 10:35:12.983 - Application: "PB.MmoServer" restart request
+4336: 10:35:13.243 - Application: "PB.MmoServer" started in app domain: 15
+4336: 10:35:14.455 - Application: "PB.MmoServer" stopped in app domain: 14
+6212: 10:35:14.455 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+4336: 10:35:14.456 - Application: "PB.MmoServer" restart complete.
+5792: 10:35:14.459 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='14'
+6212: 10:35:14.459 - CManagedHost::OnDomainUnload() - 14
+3344: 11:35:37.171 - Service is stopped...
+3344: 11:35:37.171 - Server shutting down...
+3344: 11:35:37.171 - Notifying CLR applications of shutdown...
+3344: 11:35:37.896 - Shutting down TCP Outbound Connection Manager...
+3344: 11:35:37.948 - Shutting down ENet Outbound Connection Manager...
+3344: 11:35:37.974 - Disconnecting all outbound peers...
+3344: 11:35:37.975 - Shutting down ENet host...
+3344: 11:35:37.990 - Disconnecting all peers...
+3344: 11:35:37.990 - 1 disconnected
+3344: 11:35:37.990 - Shutting down socket servers...
+3344: 11:35:37.990 - Shutting down ENet thread pool...
+3344: 11:35:38.008 - Shutting down TCP inactivity timers...
+3344: 11:35:38.014 - Resetting all peers...
+3344: 11:35:38.014 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+3344: 11:35:38.014 - OnShutdownCompleted: TCP:0.0.0.0:4530
+3344: 11:35:38.014 - WaitingForShutdownToComplete: TCPPolicy:0.0.0.0:843
+3344: 11:35:38.014 - OnShutdownCompleted: TCPPolicy:0.0.0.0:843
+3344: 11:35:38.014 - WaitingForShutdownToComplete: TCPPolicy:0.0.0.0:943
+3344: 11:35:38.014 - OnShutdownCompleted: TCPPolicy:0.0.0.0:943
+3344: 11:35:38.014 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+3344: 11:35:38.014 - OnShutdownCompleted: UDP:127.0.0.1:5055
+3344: 11:35:38.014 - WaitingForShutdownToComplete: UDP:192.168.1.139:5055
+3344: 11:35:38.014 - OnShutdownCompleted: UDP:192.168.1.139:5055
+3344: 11:35:38.014 - WaitingForShutdownToComplete: UDP:192.168.223.1:5055
+3344: 11:35:38.014 - OnShutdownCompleted: UDP:192.168.223.1:5055
+3344: 11:35:38.014 - WaitingForShutdownToComplete: UDP:192.168.32.1:5055
+3344: 11:35:38.014 - OnShutdownCompleted: UDP:192.168.32.1:5055
+3344: 11:35:38.014 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+3344: 11:35:38.014 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+3344: 11:35:38.014 - Shutting down CLR applications...
+6212: 11:35:38.026 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+5792: 11:35:38.075 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='5'
+6212: 11:35:38.075 - CManagedHost::OnDomainUnload() - 5
+3344: 11:35:38.110 - Shutting down business logic thread pool...
+3344: 11:35:38.111 - Shutting down I/O thread pool...
+3344: 11:35:38.111 - Flushing ENET buffer allocator...
+3344: 11:35:38.113 - Flushing TCP buffer allocator...
+3344: 11:35:38.113 - Flushing TCP buffer handle allocator...
+3344: 11:35:38.113 - Flushing stream socket allocator...
+3344: 11:35:38.113 - Flushing inbound datagram socket allocator...
+3344: 11:35:38.113 - Flushing outbound datagram socket allocator...
+3344: 11:35:38.113 - Destroying ENet thread pool
+3344: 11:35:38.113 - Destroying Business logic thread pool
+3344: 11:35:38.113 - Destroying servers
+3344: 11:35:38.123 - Destroying TCP Outbound Connection Manager
+3344: 11:35:38.123 - Destroying resolver
+3344: 11:35:38.123 - Destroying TCP Proxy Connection Manager
+3344: 11:35:38.123 - Destroying TCP inactivity timer
+3344: 11:35:38.123 - Destroying ENet host
+3344: 11:35:38.123 - Destroying ENet host
+3344: 11:35:38.123 - Destroying CLR dispatcher
+3344: 11:35:38.123 - Destroying CLR applications
+5792: 11:35:38.948 - Unloading Domain: ApplicationName = 'Policy', DomainId='6'
+3344: 11:35:38.987 - Destroying I/O thread pool
+3344: 11:35:38.987 - Destroying ENet buffer allocator
+3344: 11:35:38.987 - Destroying TCP buffer allocator
+3344: 11:35:38.987 - Destroying TCP socket allocator
+3344: 11:35:38.987 - Destroying ENet inbound socket allocator
+3344: 11:35:38.987 - Destroying ENet outbound socket allocator
+3344: 11:35:38.987 - Destroying performance counters
+3344: 11:35:39.055 - Shutdown complete...
+5964: 11:35:39.080 - Service shutting down
+5964: 11:35:39.094 - Service shut down complete
+19848: 11:35:45.913 - ---
+19848: 11:35:45.913 - Service: "Photon Socket Server" starting
+19848: 11:35:45.913 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+19848: 11:35:45.921 - Will produce at most: 10 crash dumps
+19848: 11:35:45.921 - Action:service
+13288: 11:35:45.924 - Server Starting...
+13288: 11:35:45.924 -    Tick count: 507867921 (wraps in: 43.8322 days)
+13288: 11:35:45.924 - Tick count 64: 507867921
+13288: 11:35:45.924 - Photon Version: 3.0.27.1684
+13288: 11:35:45.924 - PID: 19904
+13288: 11:35:45.924 - Current directory is: C:\Windows\system32
+13288: 11:35:45.924 - Changing current directory to: C:\Server\Photon3\deploy\bin_Win64
+13288: 11:35:45.924 - Config File: C:\Server\Photon3\deploy\bin_Win64\PhotonServer.config
+13288: 11:35:45.942 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+13288: 11:35:45.944 - Max message size: 512000
+13288: 11:35:45.948 - S2S: MaxInboundMessageSize: 512000
+13288: 11:35:45.948 - S2S: MaxOutboundMessageSize: 512000
+13288: 11:35:45.948 - S2S: No inactivity timeout
+13288: 11:35:45.951 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+13288: 11:35:45.951 - Per peer bandwidth limit
+13288: 11:35:45.951 - Transmit Rate Limit: 256 KB/Sec
+13288: 11:35:45.951 - Limit period: 200ms
+13288: 11:35:45.951 - Limit per period: 52428 bytes
+13288: 11:35:45.951 - Max queued data for transmission per peer: 512000 bytes
+13288: 11:35:45.951 - Minimum retransmit timeout: 200
+13288: 11:35:45.951 - Minimum ENet timeout: 5000ms
+13288: 11:35:45.951 - Maximum ENet timeout: 30000ms
+13288: 11:35:45.951 - Outbound ENet: MaxInboundMessageSize: 512000
+13288: 11:35:45.951 - Outbound ENet: MaxOutboundMessageSize: 512000
+13288: 11:35:45.963 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+13288: 11:35:45.963 - CLRBaseDirectory set to "C:\Server\Photon3\deploy"
+13288: 11:35:45.963 - Optimising event broadcast for 20 or more peers
+13288: 11:35:45.967 - About to load CLR - versions available:
+13288: 11:35:45.967 - v2.0.50727
+13288: 11:35:45.967 - v4.0.30319
+13288: 11:35:45.967 - No preference in configuration file, will load latest.
+13288: 11:35:45.967 - About to load version: "v4.0.30319"
+13288: 11:35:45.967 - Loaded version: "v4.0.30319"
+13288: 11:35:46.316 - Photon host runtime loaded
+13288: 11:35:52.439 - License is valid.
+13288: 11:35:52.439 - Licensed for 100 concurrent connections.
+13288: 11:35:52.440 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+13288: 11:35:52.440 - Per peer bandwidth limit
+13288: 11:35:52.440 - Transmit Rate Limit: 256 KB/Sec
+13288: 11:35:52.440 - Limit period: 200ms
+13288: 11:35:52.440 - Limit per period: 52428 bytes
+13288: 11:35:52.440 - Max queued data for transmission per peer: 512000 bytes
+13288: 11:35:52.440 - Minimum retransmit timeout: 200
+13288: 11:35:52.440 - Minimum ENet timeout: 5000ms
+13288: 11:35:52.440 - Maximum ENet timeout: 30000ms
+13288: 11:35:52.448 - CENetHost: Using Timer Wheel
+13288: 11:35:52.449 - About to load application: PB.MmoServer from PB.MmoServer
+13288: 11:35:52.449 - Auto restart is enabled for application
+13288: 11:35:52.449 - Application will restart 1000ms after the last change detected
+13288: 11:35:52.449 - Application will restart if files matching the following are changed: "dll;config"
+13288: 11:35:52.449 - Application will NOT restart if files matching the following are changed: "log4net.config"
+13288: 11:35:52.595 - Application: "PB.MmoServer" started in app domain: 2
+13288: 11:35:52.595 - About to load application: Lite from Lite
+13288: 11:35:52.595 - Auto restart is enabled for application, existing connections will be terminated during restart
+13288: 11:35:52.595 - Application will restart 1000ms after the last change detected
+13288: 11:35:52.595 - Application will restart if files matching the following are changed: "dll;config"
+13288: 11:35:52.595 - Application will NOT restart if files matching the following are changed: "log4net.config"
+13288: 11:35:52.873 - Application: "Lite" started in app domain: 3
+13288: 11:35:52.873 - About to load application: LiteLobby from LiteLobby
+13288: 11:35:52.873 - Auto restart is enabled for application, existing connections will be terminated during restart
+13288: 11:35:52.873 - Application will restart 1000ms after the last change detected
+13288: 11:35:52.873 - Application will restart if files matching the following are changed: "dll;config"
+13288: 11:35:52.873 - Application will NOT restart if files matching the following are changed: "log4net.config"
+13288: 11:35:53.341 - Application: "LiteLobby" started in app domain: 4
+13288: 11:35:53.341 - About to load application: CounterPublisher from CounterPublisher
+13288: 11:35:53.341 - Auto restart is enabled for application, existing connections will be terminated during restart
+13288: 11:35:53.341 - Application will restart 1000ms after the last change detected
+13288: 11:35:53.341 - Application will restart if files matching the following are changed: "dll;config"
+13288: 11:35:53.341 - Application will NOT restart if files matching the following are changed: "log4net.config"
+13288: 11:35:53.652 - Application: "CounterPublisher" started in app domain: 5
+13288: 11:35:53.652 - About to load application: Policy from Policy.Application
+13288: 11:35:53.774 - Application: "Policy" started in app domain: 6
+13288: 11:35:53.774 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+13288: 11:35:53.774 - TCP inactivity timeout: 5000ms
+13288: 11:35:53.774 - MaxInboundMessageSize: 512000
+13288: 11:35:53.774 - MaxOutboundMessageSize: 512000
+13288: 11:35:53.792 - Routing policy file requests to: "Policy"
+13288: 11:35:53.796 - MaxInboundMessageSize: 512000
+13288: 11:35:53.796 - MaxOutboundMessageSize: 512000
+13288: 11:35:53.796 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+13288: 11:35:53.797 - Adding UDP listener on :192.168.1.2: 5055 with a listen backlog of: 500
+13288: 11:35:53.797 - Adding UDP listener on :192.168.32.1: 5055 with a listen backlog of: 500
+13288: 11:35:53.797 - Adding UDP listener on :192.168.223.1: 5055 with a listen backlog of: 500
+13288: 11:35:53.797 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+13288: 11:35:53.797 - Adding TCP Policy listener on :0.0.0.0: 843 with a listen backlog of: 150 and routing to application: "Policy"
+13288: 11:35:53.797 - TCP inactivity timeout: 1000ms
+13288: 11:35:53.797 - Adding TCP Policy listener on :0.0.0.0: 943 with a listen backlog of: 150 and routing to application: "Policy"
+13288: 11:35:53.797 - TCP inactivity timeout: 1000ms
+13288: 11:35:53.797 - Adding WebSocket TCP listener on :0.0.0.0: 9090 with a listen backlog of: 150
+13288: 11:35:53.797 - Nagle disabled
+13288: 11:35:53.797 - TCP inactivity timeout: 10000ms
+13288: 11:35:53.797 - MaxInboundMessageSize: 512000
+13288: 11:35:53.797 - MaxOutboundMessageSize: 512000
+13288: 11:35:53.797 - Forcing all applications ids to: "Lite"
+13288: 11:35:53.816 - Service is running...
+19452: 13:35:34.078 - Restarting application: "PB.MmoServer" due to file changes
+19452: 13:35:34.078 - Application: "PB.MmoServer" restart request
+19452: 13:35:34.240 - Application: "PB.MmoServer" started in app domain: 7
+19452: 13:35:34.807 - Application: "PB.MmoServer" stopped in app domain: 2
+19452: 13:35:34.807 - Application: "PB.MmoServer" restart complete.
+19452: 13:37:59.537 - Restarting application: "PB.MmoServer" due to file changes
+19452: 13:37:59.537 - Application: "PB.MmoServer" restart request
+19452: 13:37:59.665 - Application: "PB.MmoServer" started in app domain: 8
+19452: 13:38:00.054 - Application: "PB.MmoServer" stopped in app domain: 7
+19452: 13:38:00.054 - Application: "PB.MmoServer" restart complete.
+9800: 13:38:00.054 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+2012: 13:38:00.057 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='7'
+9800: 13:38:00.057 - CManagedHost::OnDomainUnload() - 7
+9800: 13:38:23.525 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+2012: 13:38:23.528 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='2'
+9800: 13:38:23.639 - CManagedHost::OnDomainUnload() - 2
+19452: 13:53:55.620 - Restarting application: "PB.MmoServer" due to file changes
+19452: 13:53:55.620 - Application: "PB.MmoServer" restart request
+19452: 13:53:55.745 - Application: "PB.MmoServer" started in app domain: 9
+19452: 13:53:56.192 - Application: "PB.MmoServer" stopped in app domain: 8
+19452: 13:53:56.192 - Application: "PB.MmoServer" restart complete.
+9800: 13:54:42.232 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+2012: 13:54:42.236 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='8'
+9800: 13:54:42.247 - CManagedHost::OnDomainUnload() - 8

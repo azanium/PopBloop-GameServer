@@ -1,0 +1,518 @@
+2013-01-11 13:41:06,202 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=PB.MmoServer
+2013-01-11 13:41:09,593 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=PB.MmoServer
+2013-01-11 13:43:57,654 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PB.MmoServer; AppPath=C:\Server\Photon3\deploy\PB.MmoServer, Type=PB.MmoServer.PhotonApplication 
+2013-01-11 13:43:57,717 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started on: 255.255.255.255:40001
+2013-01-11 14:23:00,220 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 14:23:00,220 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 14:23:34,255 [21] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 14:23:35,572 [28] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 14:23:36,650 [12] INFO  PB.MmoServer.MmoPeer - Create World
+2013-01-11 14:23:36,693 [27] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 14:24:47,372 [31] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 2:23:36 PM, Now: 1/11/2013 2:24:47 PM
+2013-01-11 14:24:54,581 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 14:24:54,581 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 14:24:57,975 [31] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 14:24:58,077 [22] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 14:24:59,888 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 14:25:36,029 [21] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 2:24:59 PM, Now: 1/11/2013 2:25:36 PM
+2013-01-11 14:25:37,539 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 14:25:37,539 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 14:25:40,695 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 14:25:40,780 [12] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 14:25:41,524 [29] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 14:47:07,900 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 2:25:41 PM, Now: 1/11/2013 2:47:07 PM
+2013-01-11 15:06:48,038 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:06:48,038 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:06:48,078 [28] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:06:48,168 [16] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:06:48,923 [22] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:07:06,737 [26] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:06:48 PM, Now: 1/11/2013 3:07:06 PM
+2013-01-11 15:09:18,410 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:09:18,410 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:09:23,263 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:09:23,356 [31] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:09:24,067 [21] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:09:33,371 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:09:24 PM, Now: 1/11/2013 3:09:33 PM
+2013-01-11 15:09:50,672 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:09:50,672 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:09:54,025 [11] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:09:54,106 [10] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:09:54,848 [20] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:10:40,931 [16] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:09:54 PM, Now: 1/11/2013 3:10:40 PM
+2013-01-11 15:10:48,678 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:10:48,678 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:11:02,978 [4] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:11:03,065 [4] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:11:03,804 [12] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:11:16,882 [30] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:11:03 PM, Now: 1/11/2013 3:11:16 PM
+2013-01-11 15:14:27,169 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:14:27,169 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:14:30,662 [9] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:14:30,751 [31] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:14:31,811 [14] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:14:42,435 [22] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:14:31 PM, Now: 1/11/2013 3:14:42 PM
+2013-01-11 15:14:50,339 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:14:50,339 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:14:56,338 [9] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:14:56,426 [16] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:14:57,303 [22] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:15:18,681 [23] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:14:57 PM, Now: 1/11/2013 3:15:18 PM
+2013-01-11 15:15:36,667 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:15:36,667 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:15:40,529 [32] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:15:40,614 [19] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:15:41,335 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:15:44,670 [32] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:15:41 PM, Now: 1/11/2013 3:15:44 PM
+2013-01-11 15:16:32,629 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:16:32,629 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:16:40,823 [14] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:16:40,911 [22] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:16:42,728 [16] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:16:52,077 [32] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:16:42 PM, Now: 1/11/2013 3:16:52 PM
+2013-01-11 15:17:05,786 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:17:05,786 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:17:08,457 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:17:05 PM, Now: 1/11/2013 3:17:08 PM
+2013-01-11 15:17:37,817 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:17:37,817 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:17:40,902 [14] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:17:40,991 [15] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:17:41,747 [31] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:17:45,749 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:17:41 PM, Now: 1/11/2013 3:17:45 PM
+2013-01-11 15:17:54,410 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:17:54,410 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:17:58,192 [15] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:17:58,295 [32] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:17:59,021 [14] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:18:06,223 [14] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:17:59 PM, Now: 1/11/2013 3:18:06 PM
+2013-01-11 15:18:20,442 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:18:20,442 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:18:28,486 [25] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:18:28,576 [22] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:18:29,307 [22] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:18:32,697 [30] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:18:29 PM, Now: 1/11/2013 3:18:32 PM
+2013-01-11 15:18:48,499 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:18:48,499 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:18:51,340 [31] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:18:51,427 [17] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:18:52,158 [22] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:19:03,635 [25] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:18:52 PM, Now: 1/11/2013 3:19:03 PM
+2013-01-11 15:19:09,365 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:19:09,365 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:19:13,264 [6] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:19:13,350 [19] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:19:14,088 [32] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:20:00,231 [14] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:19:14 PM, Now: 1/11/2013 3:20:00 PM
+2013-01-11 15:21:11,067 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:21:11,067 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:21:14,120 [16] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:21:14,204 [31] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:21:14,939 [23] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:21:18,942 [9] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:21:14 PM, Now: 1/11/2013 3:21:18 PM
+2013-01-11 15:21:33,224 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:21:33,224 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:21:36,037 [15] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:21:36,137 [14] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:21:36,855 [30] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:21:43,050 [15] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:21:36 PM, Now: 1/11/2013 3:21:43 PM
+2013-01-11 15:21:53,404 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:21:53,404 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:21:58,083 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:21:58,171 [6] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:21:58,932 [14] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:23:07,372 [22] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:21:58 PM, Now: 1/11/2013 3:23:07 PM
+2013-01-11 15:26:38,785 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:26:38,785 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:26:41,544 [32] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:26:41,638 [31] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:26:42,341 [30] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:26:57,286 [15] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:26:42 PM, Now: 1/11/2013 3:26:57 PM
+2013-01-11 15:27:30,141 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:27:30,141 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:27:33,002 [22] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:27:33,093 [17] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:27:33,819 [14] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:29:00,660 [32] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:27:33 PM, Now: 1/11/2013 3:29:00 PM
+2013-01-11 15:29:44,689 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:29:44,689 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:29:47,330 [23] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:29:47,414 [20] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:29:48,152 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:30:01,353 [16] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:29:48 PM, Now: 1/11/2013 3:30:01 PM
+2013-01-11 15:32:05,348 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:32:05,348 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:32:08,020 [15] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:32:08,112 [19] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:32:08,913 [12] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:32:23,530 [23] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:32:08 PM, Now: 1/11/2013 3:32:23 PM
+2013-01-11 15:33:20,488 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:33:20,488 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:33:23,090 [6] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:33:23,176 [25] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:33:23,951 [19] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:33:31,543 [31] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:33:23 PM, Now: 1/11/2013 3:33:31 PM
+2013-01-11 15:49:59,344 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:49:59,344 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:50:05,803 [23] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:50:05,894 [9] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:50:06,647 [9] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:50:19,206 [26] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:50:06 PM, Now: 1/11/2013 3:50:19 PM
+2013-01-11 15:51:55,174 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:51:55,174 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:51:58,206 [30] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:51:58,286 [13] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:51:59,212 [6] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:52:15,540 [13] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:51:59 PM, Now: 1/11/2013 3:52:15 PM
+2013-01-11 15:52:32,270 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:52:32,270 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:52:35,365 [27] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:52:35,468 [4] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:52:36,232 [13] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:52:43,893 [10] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:52:36 PM, Now: 1/11/2013 3:52:43 PM
+2013-01-11 15:53:47,536 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:53:47,536 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:53:54,645 [19] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:53:54,748 [4] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:53:55,475 [22] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:54:02,846 [20] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:53:55 PM, Now: 1/11/2013 3:54:02 PM
+2013-01-11 15:54:15,096 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:54:15,096 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:54:18,389 [15] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:54:18,477 [20] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:54:19,214 [24] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:54:25,665 [19] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:54:19 PM, Now: 1/11/2013 3:54:25 PM
+2013-01-11 15:58:17,691 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:58:17,691 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:58:22,443 [15] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:58:22,535 [4] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:58:23,239 [4] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:58:29,009 [16] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:58:23 PM, Now: 1/11/2013 3:58:29 PM
+2013-01-11 15:58:45,175 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:58:45,175 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:58:48,182 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:58:48,270 [16] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:58:48,993 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:58:52,104 [10] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:58:48 PM, Now: 1/11/2013 3:58:52 PM
+2013-01-11 15:58:58,793 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 15:58:58,793 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 15:59:03,283 [16] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 15:59:03,374 [13] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 15:59:04,079 [12] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 15:59:43,105 [16] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 3:59:04 PM, Now: 1/11/2013 3:59:43 PM
+2013-01-11 16:00:07,976 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:00:07,976 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:00:10,684 [20] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:00:10,767 [14] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:00:11,479 [12] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:00:32,164 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:00:11 PM, Now: 1/11/2013 4:00:32 PM
+2013-01-11 16:03:46,057 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:03:46,057 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:03:48,781 [24] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:03:48,870 [13] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:03:49,629 [28] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:03:53,496 [14] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:03:49 PM, Now: 1/11/2013 4:03:53 PM
+2013-01-11 16:04:24,403 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:04:24,403 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:04:27,080 [16] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:04:27,161 [20] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:04:27,861 [25] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:04:48,090 [16] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:04:27 PM, Now: 1/11/2013 4:04:48 PM
+2013-01-11 16:10:51,382 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:10:51,382 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:11:03,583 [25] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:11:03,680 [27] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:11:04,424 [28] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:11:31,886 [23] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:11:04 PM, Now: 1/11/2013 4:11:31 PM
+2013-01-11 16:19:22,873 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:19:22,873 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:19:25,983 [15] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:19:26,071 [15] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:19:26,800 [22] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:19:58,401 [21] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:19:26 PM, Now: 1/11/2013 4:19:58 PM
+2013-01-11 16:20:02,106 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:20:02,106 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:20:05,046 [21] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:20:05,127 [23] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:20:05,835 [21] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:20:08,594 [23] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:20:05 PM, Now: 1/11/2013 4:20:08 PM
+2013-01-11 16:29:32,223 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:29:32,223 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:29:36,617 [11] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:29:36,700 [14] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:29:37,484 [11] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:32:09,919 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:29:37 PM, Now: 1/11/2013 4:32:09 PM
+2013-01-11 16:32:20,839 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:32:20,839 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:32:25,957 [28] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhednra
+2013-01-11 16:32:25,977 [28] INFO  PB.MmoServer.MmoPeer - Auth: User: suhendra with password: suhednra(95f2c7e4088cfc6e053d56b181eae3ba) does not exists
+2013-01-11 16:32:30,811 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:32:30,908 [25] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:32:31,645 [12] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:32:55,596 [28] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:32:31 PM, Now: 1/11/2013 4:32:55 PM
+2013-01-11 16:33:20,858 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:33:20,858 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:33:26,077 [28] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:33:26,160 [24] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:33:26,930 [25] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:33:39,799 [28] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:33:26 PM, Now: 1/11/2013 4:33:39 PM
+2013-01-11 16:33:49,911 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:33:49,911 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:33:52,869 [27] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:33:52,953 [11] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:33:53,693 [14] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:34:08,069 [17] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:33:53 PM, Now: 1/11/2013 4:34:08 PM
+2013-01-11 16:35:20,946 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:35:20,946 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:35:25,180 [16] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:35:25,266 [13] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:35:26,066 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:36:16,402 [8] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:35:26 PM, Now: 1/11/2013 4:36:16 PM
+2013-01-11 16:38:11,750 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:38:11,750 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:38:15,495 [19] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:38:15,594 [23] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:38:16,348 [6] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:38:20,647 [21] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:38:16 PM, Now: 1/11/2013 4:38:20 PM
+2013-01-11 16:38:37,415 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:38:37,415 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:38:40,208 [22] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:38:40,310 [10] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:38:41,070 [22] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:38:44,076 [22] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:38:41 PM, Now: 1/11/2013 4:38:44 PM
+2013-01-11 16:39:01,257 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:39:01,257 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:39:10,968 [8] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:39:11,055 [24] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:39:11,778 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:39:50,919 [13] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:39:11 PM, Now: 1/11/2013 4:39:50 PM
+2013-01-11 16:40:09,551 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:40:09,551 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:40:17,209 [25] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:40:17,296 [11] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:40:18,023 [9] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:41:07,296 [12] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:40:18 PM, Now: 1/11/2013 4:41:07 PM
+2013-01-11 16:41:24,326 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:41:24,326 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:41:27,200 [20] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:41:27,284 [21] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:41:28,036 [30] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:42:17,038 [26] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:41:28 PM, Now: 1/11/2013 4:42:17 PM
+2013-01-11 16:42:19,220 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:42:19,220 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:42:22,292 [28] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:42:22,378 [20] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:42:23,131 [17] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:42:38,806 [10] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:42:23 PM, Now: 1/11/2013 4:42:38 PM
+2013-01-11 16:42:40,800 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:42:40,800 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:42:45,612 [13] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:42:45,701 [27] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:42:46,447 [10] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:42:47,418 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:42:46 PM, Now: 1/11/2013 4:42:47 PM
+2013-01-11 16:42:59,710 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:42:59,710 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:43:02,514 [15] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:43:02,611 [11] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:43:03,347 [8] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:43:13,882 [17] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:43:03 PM, Now: 1/11/2013 4:43:13 PM
+2013-01-11 16:43:16,059 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:43:16,059 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:43:19,383 [26] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:43:19,468 [20] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:43:20,207 [11] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:43:32,041 [23] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:43:20 PM, Now: 1/11/2013 4:43:32 PM
+2013-01-11 16:44:00,750 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:44:00,750 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:44:03,387 [15] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:44:03,469 [27] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:44:04,244 [16] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:44:08,397 [26] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:44:04 PM, Now: 1/11/2013 4:44:08 PM
+2013-01-11 16:44:16,499 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:44:16,499 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:44:20,278 [11] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:44:20,372 [19] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:44:21,094 [19] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:44:32,175 [30] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:44:21 PM, Now: 1/11/2013 4:44:32 PM
+2013-01-11 16:44:42,220 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:44:42,220 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:44:45,764 [13] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:44:45,849 [17] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:44:46,594 [14] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:44:53,469 [30] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:44:46 PM, Now: 1/11/2013 4:44:53 PM
+2013-01-11 16:45:01,889 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:45:01,889 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:45:09,814 [6] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:45:09,906 [30] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:45:10,624 [26] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:45:24,181 [13] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:45:10 PM, Now: 1/11/2013 4:45:24 PM
+2013-01-11 16:47:24,747 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:47:24,747 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:47:27,664 [27] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:47:27,757 [26] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:47:28,479 [27] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:47:53,772 [14] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:47:28 PM, Now: 1/11/2013 4:47:53 PM
+2013-01-11 16:49:47,363 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:49:47,363 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:49:50,229 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:49:50,317 [14] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:49:51,077 [13] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:50:31,957 [30] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:49:51 PM, Now: 1/11/2013 4:50:31 PM
+2013-01-11 16:51:08,442 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:51:08,442 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:51:13,427 [12] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:51:13,527 [14] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:51:14,282 [28] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:51:23,829 [11] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:51:14 PM, Now: 1/11/2013 4:51:23 PM
+2013-01-11 16:52:16,002 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:52:16,002 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:52:19,089 [22] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:52:19,175 [27] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:52:19,940 [24] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:52:36,504 [16] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:52:19 PM, Now: 1/11/2013 4:52:36 PM
+2013-01-11 16:55:33,729 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:55:33,729 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:55:36,631 [27] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:55:36,728 [26] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:55:37,507 [24] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:56:05,283 [17] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:55:37 PM, Now: 1/11/2013 4:56:05 PM
+2013-01-11 16:56:51,086 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:56:51,086 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:57:01,419 [27] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:57:01,510 [14] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 16:57:02,507 [24] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:57:24,570 [15] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:57:02 PM, Now: 1/11/2013 4:57:24 PM
+2013-01-11 16:57:24,636 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 16:57:24,636 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 16:57:24,663 [6] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 16:57:24,680 [15] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 20
+2013-01-11 16:57:29,704 [20] INFO  PB.MmoServer.MmoPeer - Create World
+2013-01-11 16:57:29,816 [8] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 16:57:38,976 [17] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 4:57:29 PM, Now: 1/11/2013 4:57:38 PM
+2013-01-11 17:00:04,926 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:00:04,926 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:00:07,658 [20] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:00:07,752 [8] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 17:00:08,465 [26] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:00:11,183 [27] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:00:08 PM, Now: 1/11/2013 5:00:11 PM
+2013-01-11 17:00:11,559 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:00:11,560 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:00:11,586 [11] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:00:11,605 [13] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 20
+2013-01-11 17:00:15,925 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:02:36,304 [24] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:00:15 PM, Now: 1/11/2013 5:02:36 PM
+2013-01-11 17:08:04,448 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:08:04,448 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:08:07,156 [29] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:08:07,247 [6] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 20
+2013-01-11 17:08:11,617 [36] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:10:10,521 [17] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:08:11 PM, Now: 1/11/2013 5:10:10 PM
+2013-01-11 17:10:12,821 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:10:12,821 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:10:15,632 [36] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:10:15,719 [22] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 20
+2013-01-11 17:10:20,153 [30] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:10:29,253 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:10:20 PM, Now: 1/11/2013 5:10:29 PM
+2013-01-11 17:10:36,497 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:10:36,497 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:10:39,350 [36] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:10:39,436 [28] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 20
+2013-01-11 17:10:43,765 [4] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:11:28,270 [29] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:10:43 PM, Now: 1/11/2013 5:11:28 PM
+2013-01-11 17:11:39,783 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:11:39,783 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:11:44,196 [30] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:11:39 PM, Now: 1/11/2013 5:11:44 PM
+2013-01-11 17:15:12,435 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:15:12,435 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:15:15,184 [8] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:15:15,281 [16] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 20
+2013-01-11 17:15:19,371 [26] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:15:37,397 [29] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:15:19 PM, Now: 1/11/2013 5:15:37 PM
+2013-01-11 17:16:03,352 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:16:03,352 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:16:06,041 [8] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:16:06,127 [24] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 20
+2013-01-11 17:16:10,371 [4] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:16:42,227 [22] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:16:10 PM, Now: 1/11/2013 5:16:42 PM
+2013-01-11 17:23:44,229 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:23:44,229 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:23:47,429 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:23:47,528 [8] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 19
+2013-01-11 17:23:51,770 [25] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:24:10,471 [10] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:23:51 PM, Now: 1/11/2013 5:24:10 PM
+2013-01-11 17:24:10,612 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:24:10,612 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:24:10,646 [30] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:24:10,664 [26] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 17:24:11,363 [30] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:24:18,725 [16] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:24:11 PM, Now: 1/11/2013 5:24:18 PM
+2013-01-11 17:25:17,079 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:25:17,079 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:25:20,167 [29] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:25:20,256 [8] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 19
+2013-01-11 17:25:24,398 [13] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:25:30,322 [15] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:25:24 PM, Now: 1/11/2013 5:25:30 PM
+2013-01-11 17:25:39,206 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:25:39,206 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:25:42,179 [12] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:25:42,271 [17] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 19
+2013-01-11 17:25:46,388 [10] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:25:52,078 [6] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:25:46 PM, Now: 1/11/2013 5:25:52 PM
+2013-01-11 17:25:57,545 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:25:57,545 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:26:02,475 [32] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:26:02,560 [29] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 19
+2013-01-11 17:26:06,624 [25] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:26:15,524 [30] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:26:06 PM, Now: 1/11/2013 5:26:15 PM
+2013-01-11 17:26:24,201 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:26:24,201 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:26:27,068 [26] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:26:27,167 [6] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 19
+2013-01-11 17:26:31,117 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:27:00,500 [27] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:26:31 PM, Now: 1/11/2013 5:27:00 PM
+2013-01-11 17:27:52,715 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:27:52,715 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:27:55,982 [10] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:27:56,063 [26] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 17:27:56,814 [10] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:28:01,575 [32] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:27:56 PM, Now: 1/11/2013 5:28:01 PM
+2013-01-11 17:30:14,066 [23] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:30:14,066 [23] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:30:17,114 [27] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:30:17,203 [28] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 17:30:17,973 [34] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:32:12,260 [4] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:30:17 PM, Now: 1/11/2013 5:32:12 PM
+2013-01-11 17:33:35,108 [9] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:33:35,108 [9] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:33:38,365 [11] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:33:38,456 [20] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 17:33:39,197 [19] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:34:13,206 [4] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:33:39 PM, Now: 1/11/2013 5:34:13 PM
+2013-01-11 17:34:13,269 [9] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 17:34:13,270 [9] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 17:34:13,296 [34] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 17:34:13,315 [35] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 19
+2013-01-11 17:34:17,151 [17] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 17:34:25,737 [11] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 5:34:17 PM, Now: 1/11/2013 5:34:25 PM
+2013-01-11 18:06:26,151 [9] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 18:06:26,151 [9] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 18:06:29,462 [4] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 18:06:29,548 [26] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 18:06:30,489 [17] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 18:06:49,066 [14] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 6:06:30 PM, Now: 1/11/2013 6:06:49 PM
+2013-01-11 18:06:56,738 [9] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 18:06:56,738 [9] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 18:07:02,634 [34] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 18:07:02,732 [4] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 18:07:03,529 [34] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 18:07:20,771 [15] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 6:07:03 PM, Now: 1/11/2013 6:07:20 PM
+2013-01-11 18:07:23,324 [9] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 18:07:23,324 [9] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 18:07:26,956 [26] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 18:07:27,040 [32] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 18:07:27,790 [6] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 18:07:43,257 [22] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 6:07:27 PM, Now: 1/11/2013 6:07:43 PM
+2013-01-11 18:07:55,439 [9] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2013-01-11 18:07:55,439 [9] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2013-01-11 18:08:09,997 [30] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2013-01-11 18:08:10,079 [4] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2013-01-11 18:08:10,811 [15] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2013-01-11 18:08:29,071 [34] INFO  PB.Server.Db.DbManager - StartTime: 1/11/2013 6:08:10 PM, Now: 1/11/2013 6:08:29 PM

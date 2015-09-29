@@ -1,0 +1,27 @@
+19452: 11:16:17.221 - Restarting application: "PB.MmoServer" due to file changes
+19452: 11:16:17.221 - Application: "PB.MmoServer" restart request
+19452: 11:16:17.419 - Application: "PB.MmoServer" started in app domain: 10
+19452: 11:16:18.555 - Application: "PB.MmoServer" stopped in app domain: 9
+19452: 11:16:18.555 - Application: "PB.MmoServer" restart complete.
+9800: 11:16:18.555 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+2012: 11:16:18.559 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='9'
+9800: 11:16:18.559 - CManagedHost::OnDomainUnload() - 9
+19452: 11:21:04.285 - Restarting application: "PB.MmoServer" due to file changes
+19452: 11:21:04.285 - Application: "PB.MmoServer" restart request
+19452: 11:21:04.439 - Application: "PB.MmoServer" started in app domain: 11
+19452: 11:21:04.781 - Application: "PB.MmoServer" stopped in app domain: 10
+19452: 11:21:04.781 - Application: "PB.MmoServer" restart complete.
+9800: 11:21:04.781 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+2012: 11:21:04.785 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='10'
+9800: 11:21:04.785 - CManagedHost::OnDomainUnload() - 10
+19452: 11:22:25.793 - Restarting application: "PB.MmoServer" due to file changes
+19452: 11:22:25.793 - Application: "PB.MmoServer" restart request
+19452: 11:22:25.849 - Failed to restart application: CManagedHost::CreateApplicationInNewAppDomain() - Failed to create new application domain for : "PB.MmoServer" - Can't find PB.MmoServer.dll in C:\Server\Photon3\deploy\PB.MmoServer\bin or C:\Server\Photon3\deploy\PB.MmoServer\bin
+19452: 11:22:33.193 - Restarting application: "PB.MmoServer" due to file changes
+19452: 11:22:33.193 - Application: "PB.MmoServer" restart request
+19452: 11:22:33.309 - Application: "PB.MmoServer" started in app domain: 12
+19452: 11:22:33.740 - Application: "PB.MmoServer" stopped in app domain: 11
+19452: 11:22:33.740 - Application: "PB.MmoServer" restart complete.
+9800: 11:22:36.735 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+2012: 11:22:36.739 - Unloading Domain: ApplicationName = 'PB.MmoServer', DomainId='11'
+9800: 11:22:36.773 - CManagedHost::OnDomainUnload() - 11

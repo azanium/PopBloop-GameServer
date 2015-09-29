@@ -1,0 +1,14 @@
+2012-11-23 10:09:45,691 [15] WARN  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher stopped working because of a network loss
+2012-11-23 11:26:58,977 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-23 11:26:58,977 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-23 11:26:59,015 [18] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-23 11:26:59,109 [29] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (20, 20), Entities Count: 13
+2012-11-23 11:26:59,955 [19] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-23 11:27:05,749 [15] INFO  PB.Server.Db.DbManager - StartTime: 11/23/2012 11:26:59 AM, Now: 11/23/2012 11:27:05 AM
+2012-11-23 11:27:05,927 [30] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-11-23 11:27:05,927 [30] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-11-23 11:27:05,950 [19] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-11-23 11:27:05,984 [18] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 56
+2012-11-23 11:27:12,128 [4] INFO  PB.MmoServer.MmoPeer - Create World
+2012-11-23 11:27:12,760 [6] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-11-23 11:27:41,578 [15] INFO  PB.Server.Db.DbManager - StartTime: 11/23/2012 11:27:12 AM, Now: 11/23/2012 11:27:41 AM

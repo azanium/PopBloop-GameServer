@@ -1,0 +1,61 @@
+2012-09-11 10:31:40,458 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 10:31:40,464 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 10:31:45,637 [26] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 10:31:47,398 [13] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (10, 10), Entities Count: 13
+2012-09-11 10:31:48,500 [20] INFO  PB.MmoServer.MmoPeer - Create World
+2012-09-11 10:31:48,566 [30] INFO  PB.MmoServer.MmoPeer - View Distance 10, 10
+2012-09-11 11:01:26,269 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 11:01:26,269 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 11:01:26,295 [6] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 11:01:26,352 [8] ERROR PB.Server.Db.DbManager - DbManager.GetLevel(): Object reference not set to an instance of an object.
+2012-09-11 11:01:26,462 [8] INFO  PB.MmoServer.MmoPeer - LoadWorld Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PB.MmoServer.MmoPeer.OperationLoadWorld(PeerBase peer, OperationRequest request) in D:\PopBloop\PB.Source\trunk\PopBloop\PB.MmoServer\MmoPeer.cs:line 652
+2012-09-11 11:01:36,727 [18] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 11:01:36,727 [18] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 11:01:36,753 [28] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 11:01:36,770 [11] ERROR PB.Server.Db.DbManager - DbManager.GetLevel(): Object reference not set to an instance of an object.
+2012-09-11 11:01:36,770 [11] INFO  PB.MmoServer.MmoPeer - LoadWorld Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PB.MmoServer.MmoPeer.OperationLoadWorld(PeerBase peer, OperationRequest request) in D:\PopBloop\PB.Source\trunk\PopBloop\PB.MmoServer\MmoPeer.cs:line 652
+2012-09-11 11:34:21,979 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=PB.MmoServer
+2012-09-11 11:34:22,307 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=PB.MmoServer
+2012-09-11 11:37:26,109 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PB.MmoServer; AppPath=C:\Server\Photon3\deploy\PB.MmoServer, Type=PB.MmoServer.PhotonApplication 
+2012-09-11 11:37:26,156 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started on: 255.255.255.255:40001
+2012-09-11 16:21:58,827 [26] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 16:21:58,827 [26] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 16:22:02,600 [14] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 16:22:03,931 [13] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (10, 10), Entities Count: 13
+2012-09-11 16:22:04,944 [16] INFO  PB.MmoServer.MmoPeer - Create World
+2012-09-11 16:22:04,993 [14] INFO  PB.MmoServer.MmoPeer - View Distance 10, 10
+2012-09-11 16:22:11,209 [26] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 16:22:11,209 [26] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 16:22:11,235 [29] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 16:22:11,291 [24] ERROR PB.Server.Db.DbManager - DbManager.GetLevel(): Object reference not set to an instance of an object.
+2012-09-11 16:22:11,412 [24] INFO  PB.MmoServer.MmoPeer - LoadWorld Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PB.MmoServer.MmoPeer.OperationLoadWorld(PeerBase peer, OperationRequest request) in D:\PopBloop\PB.Source\trunk\PopBloop\PB.MmoServer\MmoPeer.cs:line 652
+2012-09-11 16:22:21,736 [26] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 16:22:21,736 [26] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 16:22:21,768 [14] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 16:22:21,786 [24] ERROR PB.Server.Db.DbManager - DbManager.GetLevel(): Object reference not set to an instance of an object.
+2012-09-11 16:22:21,786 [24] INFO  PB.MmoServer.MmoPeer - LoadWorld Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PB.MmoServer.MmoPeer.OperationLoadWorld(PeerBase peer, OperationRequest request) in D:\PopBloop\PB.Source\trunk\PopBloop\PB.MmoServer\MmoPeer.cs:line 652
+2012-09-11 16:23:21,008 [26] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 16:23:21,008 [26] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 16:23:24,247 [13] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 16:23:24,331 [9] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (10, 10), Entities Count: 13
+2012-09-11 16:23:25,153 [14] INFO  PB.MmoServer.MmoPeer - View Distance 10, 10
+2012-09-11 16:23:30,634 [26] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 16:23:30,634 [26] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 16:23:30,660 [17] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 16:23:30,677 [20] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 4
+2012-09-11 16:23:31,062 [17] INFO  PB.MmoServer.MmoPeer - Create World
+2012-09-11 16:23:31,164 [24] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
+2012-09-11 16:35:06,631 [26] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 16:35:06,631 [26] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 16:35:09,913 [13] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 16:35:10,012 [29] INFO  PB.MmoServer.MmoPeer - Level PrivateRoom: Size (1000, 1000), Tile (10, 10), Entities Count: 13
+2012-09-11 16:35:10,855 [16] INFO  PB.MmoServer.MmoPeer - View Distance 10, 10
+2012-09-11 16:35:14,362 [26] INFO  PB.MmoServer.MmoPeer - DBServerAddress: 127.0.0.1:27017
+2012-09-11 16:35:14,362 [26] INFO  PB.MmoServer.MmoPeer - DBUserName: admin, DBPassword: manglayang2010
+2012-09-11 16:35:14,388 [13] INFO  PB.MmoServer.MmoPeer - Logging In: Username:suhendra, Password: suhendra
+2012-09-11 16:35:14,406 [14] INFO  PB.MmoServer.MmoPeer - Level FB_City: Size (10000, 10000), Tile (20, 20), Entities Count: 4
+2012-09-11 16:35:14,836 [16] INFO  PB.MmoServer.MmoPeer - View Distance 20, 20
